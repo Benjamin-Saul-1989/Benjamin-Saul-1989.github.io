@@ -184,6 +184,5 @@ skills:
       level: 60%
       
       title: test
-      toolset:
         -name: Test
         level: 60%

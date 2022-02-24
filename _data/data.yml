@@ -19,11 +19,11 @@ sidebar:
     linkedin: benjamin-saul-mcculloch
     #xing: alandoe
     github: Benjamin-Saul-1989
-   #telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+   # bitbucket:
     twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
@@ -168,7 +168,7 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: DevOps Tool Sets
+    title: Skills &amp; Proficiency
 
     toolset:
       - name: Python & Django
@@ -188,27 +188,7 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
-  
-        title: Scripting
-      
-          toolset:
-            - name: Python & Django
-              level: 98%
-      
-            - name: Javascript & jQuery
-              level: 98%
-      
-            - name: Angular
-              level: 98%
-      
-            - name: HTML5 & CSS
-              level: 95%
-      
-            - name: Ruby on Rails
-              level: 85%
-      
-            - name: Sketch & Photoshop
-              level: 60%
+title: Scripting
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

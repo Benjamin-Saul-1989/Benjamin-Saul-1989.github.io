@@ -168,16 +168,16 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Microsoft Azure and Microsoft Azure DevOps
+    - name: Microsoft Azure
       level: 98%
 
-    - name: Javascript & jQuery
+    - name:  Microsoft Azure DevOps
       level: 98%
 
-    - name: Angular
-      level: 98%
+    - name: Bash
+      level: 95%
 
-    - name: HTML5 & CSS
+    - name: Powershell
       level: 95%
 
     - name: Ruby on Rails

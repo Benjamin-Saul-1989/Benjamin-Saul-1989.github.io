@@ -188,8 +188,8 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
-        skills:
-          title: Scripting
+  
+        title: Scripting
       
           toolset:
             - name: Python & Django

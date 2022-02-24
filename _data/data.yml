@@ -17,9 +17,9 @@ sidebar:
     citizenship: Australia
     # website: blog.webjeda.com #do not add http://
     linkedin: benjamin-saul-mcculloch
-    xing: alandoe
+    #xing: alandoe
     github: Benjamin-Saul-1989
-    telegram: # add your nickname without '@' sign
+   #telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: '@webjeda'
@@ -32,11 +32,11 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Japanese 
+        level: Basic
 
       - idiom: Spanish
-        level: Professional
+        level: Intermediate
 
     interests:
       - item: Climbing
@@ -168,7 +168,7 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: DevOps Tool Sets
 
     toolset:
       - name: Python & Django

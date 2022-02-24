@@ -1,105 +1,61 @@
-# Jekyll-Paper
+<a href="https://jekyll-themes.com">
+<img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
+</a>
 
-![Jekyll-Paper](./favicon.ico)
+# Orbit
+> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
+> Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
-English | [简体中文](./README-CN.md)
+I have made this into a Jekyll Theme. Checkout the live demo [here](https://online-cv.webjeda.com).
 
-Jekyll Paper is a simple Jekyll theme, and it is aim to helping you to create your own blog by the easiest way.
+<table>
+  <tr>
+    <th>Desktop</th>
+    <th>Mobile</th>
+  </tr>
+  <tr>
+    <td>
+        <img src="https://online-cv.webjeda.com/assets/images/desktop.png?raw=true" width="600"/>
+    </td>
+    <td>
+        <img src="https://online-cv.webjeda.com/assets/images/mobile.png?raw=true" width="250"/>
+    </td>
+  </tr>
+</table>
 
-Unfortunately, Jekyll Paper implement the category page by 'jekyll-archive' plugin, and GitHub Pages does not support it. So, this project is for self-host blog, and the Github Pages version is also available in [Jekyll Paper for Github][jekyll-paper-github].
+## Installation
 
-This is a [demo website](https://www.ghosind.com) for Jekyll Paper.
+* [Fork](https://github.com/sharu725/online-cv/fork) the repository
+* Delete the `gh-pages` branch
+* Re-create the `gh-pages` branch
+* Go to settings and set Github Pages source as master.
+* Your new site should be ready at `https://username.github.io/online-cv/`
 
-## Features
+Change all the details from one place: ``_data/data.yml``
 
-- Responsive
-- Paginate
-- RSS
-- Sitemap
-- Custom 404 page
-- SASS
-- Internationalization
-- Configurable navigation menu
-- Categories Index
-- SEO optimization
-- Mathematics (MathJax)
-- Diagrams (Mermaid)
-- Comments (Disqus)
+Watch my [video](https://www.youtube.com/embed/T2nx6tj-ZH4) on installation.
 
-## Getting Start
+## Skins
 
-Jekyll Paper is easy to create your own blog. You can create your blog by five steps only!
+There are 6 color schemes available:
 
-1. `$ gem install bundler jekyll`
-2. `$ git clone git@github.com:ghosind/Jekyll-Paper.git`
-3. `$ cd Jekyll-Paper`
-4. `Jekyll-Paper $ bundle install`
-5. `Jekyll-Paper $ bundle exec jekyll serve`
+| Blue | Turquoise | Green |
+|---------|---------|---------|
+| <img src="https://online-cv.webjeda.com/assets/images/blue.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/turquoise.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/green.jpg" width="300"/> |
 
-## Add New Posts
+| Berry | Orange | Ceramic |
+|---------|---------|---------|
+| <img src="https://online-cv.webjeda.com/assets/images/berry.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/orange.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/ceramic.jpg" width="300"/> |
 
-You can add new posts at any time after you had your own blog. Create a new post need to add a new file in "_posts" directory, and the file name must follow the convention `YYYY-MM-DD-name-of-post.md`.
+## Credits
 
-## Custom Navigation Menu
+Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
 
-You can add or update navigation menu items in `_data/menus.yml` file. In the configuration file, you need set title and URL for every navigation menu item.
+Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
 
-### Example
+Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
 
-```yml
-- title: "Index"
-  url:   ""
+## Star History
 
-- title: "Github"
-  absoluteUrl: true
-  url: "https://github.com/john_doe"
+[![Star History Chart](https://api.star-history.com/svg?repos=sharu725/online-cv&type=Date)](https://star-history.com/#sharu725/online-cv&Date)
 
-- title: "About"
-  url:   "about"
-```
-
-## Supported Languages
-
-Jekyll Paper has supported the following languages, please set language in `language` section of `_config.yml` file (default `language: en`). I'm anticipating you to help me improve the quality of translations and add more languages. The languages list by alphabets of its language code.
-
-- English
-- Deutsche (German)
-- Español (Spanish)
-- Français (French)
-- 日本語 (Japanese)
-- Português (Portuguese)
-- 简体中文 (Simplified Chinese)
-- 繁體中文 (Traditional Chinese)
-- 한국어 (Korean)
-
-## Screenshots
-
-The home page:
-
-![Index](./assets/images/index-screenshot.png)
-
-The post page:
-
-![Post](./assets/images/post-screenshot.png)
-
-The category page:
-
-![Category](./assets/images/category-screenshot.png)
-
-The home page in mobile version:
-
-![Mobile](./assets/images/mobile-screenshot.png)
-
-## License
-
-Jekyll Paper was released under MIT license.
-
-## Contributing
-
-If you would like to make Jekyll Paper better, you can create a new pull request in [Jekyll Paper Github Page][jekyll-paper].
-
-If you have any questions or suggestions, you can create an issue on [Jekyll Paper Issues][jekyll-paper-issues].
-
-[jekyll-paper]: https://github.com/ghosind/Jekyll-Paper
-[jekyll-paper-github]: https://github.com/ghosind/Jekyll-Paper-Github
-[jekyll-paper-issues]: https://github.com/ghosind/Jekyll-Paper/issues

@@ -11,13 +11,13 @@ sidebar:
     tagline: Devops & Cloud Infrastructure Specialized
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-  # Sidebar links
+    # Sidebar links
     email: benjaminsaulmcculloch@gmail.com
     phone: +52-55-7369-6553
     citizenship: Australia
-  # website: blog.webjeda.com #do not add http://
+    # website: blog.webjeda.com #do not add http://
     linkedin: benjamin-saul-mcculloch
-  # xing: alandoe
+    xing: alandoe
     github: Benjamin-Saul-1989
     telegram: # add your nickname without '@' sign
     gitlab:

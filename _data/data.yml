@@ -51,6 +51,9 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
+    Talented Engineer with over 5 years of experience with systems and IT operations can lead teams. 
+    Is highly skilled with the cloud, as well as developments in Windows, and Linux systems. 
+    Well-versed in numerous programming languages and scripting languages. Strong background in customer relations.
 education:
   - degree: MSc in Computer Science
     university: University of London
@@ -182,7 +185,3 @@ skills:
 
     - name: Sketch & Photoshop
       level: 60%
-      
-      title: test
-        -name: Test
-        level: 60%

@@ -72,7 +72,13 @@ experiences:
     company: UST - Global
     details: |
       In my current role at UST Global, I am working with the following client AvidXchange.
+
       My duties at AvidXchange have been working with the Enterprises Monitoring team and finding ways to best develop monitoring strategies within the many applications at AvidXchange.
+
+      We have developed many methods for monitoring the vast array of applications and servers. Because of this, I have been able to learn about a vast collection of enterprises class monitoring tools. 
+      - Dynatrace
+      - Microsoft Azure Monitor
+      -  SolarWinds
 
   - role: Senior Software Engineer
     time: 2014 - 2015

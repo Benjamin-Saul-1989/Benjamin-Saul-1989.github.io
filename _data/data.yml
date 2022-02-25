@@ -55,28 +55,16 @@ career-profile:
     Is highly skilled with the cloud, as well as developments in Windows, and Linux systems. 
     Well-versed in numerous programming languages and scripting languages. Strong background in customer relations.
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Advanced Diploma of Network Security
+    university: TAFESA
+    time: 2012 -2013
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+
   - degree: BSc in Applied Mathematics
     university: Bristol University
-    time: 2007 - 2011
+    time: 2008 - 2011
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    
 experiences:
   - role: Lead Developer
     time: 2015 - Present

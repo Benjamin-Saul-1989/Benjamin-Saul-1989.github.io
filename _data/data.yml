@@ -69,7 +69,7 @@ education:
 experiences:
   - role: Lead Devops & Cloud Infrastructure II
     time: 2021 - Present
-    company: UST - Global
+    company: UST - Global, Remote in Mexico
     details: |
       In my current role at UST Global, I am working with the following client AvidXchange.
 
@@ -79,31 +79,19 @@ experiences:
       - Dynatrace
       - Microsoft Azure Monitor
       -  SolarWinds
-      
+
       Besides the monitoring aspect of my job, I have created Terraform modules that use Microsoft Azure Pipelines to deploy resources in Microsoft Azure. 
   
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Senior DevOps & Deployment Manager 
+    time: 2021 - 2021
+    company: WS Audiology, Mexico
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+
+  - role: DevOps Engineer & Software Species
+    time: 2020 - 2021
+    company: iTexico, Mexico
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    
 projects:
   title: Projects
   intro: >

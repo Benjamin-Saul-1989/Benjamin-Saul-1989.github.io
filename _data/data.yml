@@ -79,7 +79,9 @@ experiences:
       - Dynatrace
       - Microsoft Azure Monitor
       -  SolarWinds
-
+      
+      Besides the monitoring aspect of my job, I have created Terraform modules that use Microsoft Azure Pipelines to deploy resources in Microsoft Azure. 
+  
   - role: Senior Software Engineer
     time: 2014 - 2015
     company: Google, London

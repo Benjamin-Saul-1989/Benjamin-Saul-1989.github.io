@@ -102,6 +102,11 @@ experiences:
     company: EPAM-Systems, Mexico
     details: |
 
+    - role: Information Technology Consulting 
+    time: 2010 - Present
+    #company: EPAM-Systems, Mexico
+    details: |
+
 projects:
   title: Projects
   intro: >
@@ -153,8 +158,10 @@ publications:
 
 skills:
   title: Skills &amp; Proficiency
-
   toolset:
+    - name: Cloud Technology
+      level: 83%
+
     - name: Microsoft Azure
       level: 98%
 

@@ -5,8 +5,8 @@ require "modern-resume-theme/version"
 Gem::Specification.new do |spec|
   spec.name          = "modern-resume-theme"
   spec.version       = ModernResumeTheme::VERSION
-  spec.authors       = ["James Grant"]
-  spec.email         = ["sprog31@gmail.com"]
+  spec.authors       = ["Benjamin Saul McCulloch"]
+  spec.email         = ["benjaminsaulmcculloch@gmail.com"]
 
   spec.summary       = "A modern simple static resume template and theme. Powered by Jekyll and GitHub pages."
   spec.homepage      = "https://github.com/sproogen/modern-resume-theme"

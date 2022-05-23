@@ -20,7 +20,7 @@ darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  benjamin-saul-1989
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -54,27 +54,28 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Originally from Australia, I have now been living in Mexico for 9 years. I am authorised to work in Mexico as I hold permanent residency. . 
 
-I graduated university Australia with a diploma Information Technology, Networking and Security as well as a number other certifications. 
+  I graduated university Australia with a diploma Information Technology, Networking and Security as well as a number other certifications. 
 
-During my over 15 years of working in the Information Technology sector, I have been able to gain a wide range of knowledge and skills, due to my drive to be the best in my field.  
+  During my over 15 years of working in the Information Technology sector, I have been able to gain a wide range of knowledge and skills, due to my drive to be the best in my field.  
 
-Information Technology isn't just a career for me it is my passion.
+  Information Technology isn't just a career for me it is my passion.
 
-In these ten years, I have had the honour of working with clients all over the world, during these ten years I have been lucky enough to live in Japan (2 Years), Mexico (9 Years) and Australia (23 Years).  Working with people from all over the world has given me unique opportunities, that not a lot all people have experienced. 
+  In these ten years, I have had the honour of working with clients all over the world, during these ten years I have been lucky enough to live in Japan (2 Years), Mexico (9 Years) and Australia (23 Years).  Working with people from all over the world has given me unique opportunities, that not a lot all people have experienced. 
 
-I am one of the uncommon engineers you will not find there is no other like me.  
+  I am one of the uncommon engineers you will not find there is no other like me.  
 
-I am a big believer in the power of open sources software, and this is why in my free time, I contribute to a number of open sources projects.
+  I am a big believer in the power of open sources software, and this is why in my free time, I contribute to a number of open sources projects.
 
-Other than technology, I am very passionate about photography. I have been taking photos for close to 5 years now.
+  Other than technology, I am very passionate about photography. I have been taking photos for close to 5 years now.
 
-  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    # - Lists
-    # - Tables
-    # - <a href="google.com">Links</a>
-    # - Images ![alt text](/images/landscape-trees.jpg "Trees")
+# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  # - Lists
+  # - Tables
+  # - <a href="google.com">Links</a>
+  # - Images ![alt text](/images/landscape-trees.jpg "Trees")
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)

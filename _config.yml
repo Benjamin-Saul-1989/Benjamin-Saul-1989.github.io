@@ -102,25 +102,15 @@ content:
   - title: Experience
     layout: list
     content_1:
-      - layout: right
+      - layout: left
         title_1: Test
-        title_2: Test 123
         sub_title_: Job title
-        sub_title_2: Job title
         caption_1: Date Range (eg. November 2016 - present)
-        caption_2: Date Range (eg. November 2016 - present)
         link_1: Link to company (optional)
-        link_2: Link to company (optional)
         quote_1: >
           Short description of the company (optional)
-        quote_2: >
-            Short description of the company (optional)
         description_1: | # this will include new lines to allow paragraphs
           Description of role
-        description_2: | # this will include new lines to allow paragraphs
-            Description of role
-      content_2:
-      - layout: right
 
   - title: Education
     layout: list

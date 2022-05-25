@@ -24,9 +24,9 @@ github_username:  benjamin-saul-1989
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
-flickr_username: jekyll
+flickr_username: TheGreatBaphomet
 instagram_username: jekyll
-linkedin_username: jekyll
+linkedin_username: benjaminsaulmcculloch
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
@@ -98,15 +98,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
 
-
   - title: Experience
     layout: list
     content:
       - layout: left
-        title: Test
-        sub_title_: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link_1: Link to company (optional)
+        title: UST Global 
+        sub_title_: Lead II - Cloud Infrastructure / DevOps Engineer
+        caption: April 2020 - present
+        link_1: [Website](https://www.ust.com/)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs

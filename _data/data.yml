@@ -1,51 +1,48 @@
-name: John Doe
+name: Benjamin Saul McCulloch
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  email: benjaminsaulmcculloch@gmail.com
+  github: benjamin-saul-1989
+  linkedin: benjaminsaulmcculloch
+  #phone: 
+  #gitlab: 
+  #twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Spaninsh
+  - idiom: Japanes
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Advanced Diploma - Network and Computer Security
+    time: 2012 - 2013
+    university: TafeSA
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Diploma of Information Technology
+    time: 2009-2012
+    university: TafeSA
 
 skills:
   - category: Backend
     skill: 
       - Go
       - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
   - category: DevOps
     skill:
       - Docker
-      - Kubernetes 
+      - Kubernetes
+  - category: Scripting
+      - Bash
+      - Powershell
+      - Python
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Senior DevOps Engineer with over 5 years of experience with systems and IT operations can lead teams. Is highly skilled with the cloud, as well as developments in Windows, and Linux systems. 
+  Well-versed in numerous programming languages and scripting languages. Strong background in customer relations.
 
 # Experience
 experience:

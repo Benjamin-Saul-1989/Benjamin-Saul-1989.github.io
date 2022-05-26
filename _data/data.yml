@@ -17,7 +17,7 @@ languages:
   - idiom: Japanes
 
 education:
-  - degree: Advanced Diploma - Network and Computer Security
+  - degree: Adv. Diploma - Network and Computer Security
     time: 2012 - 2013
     university: TafeSA
 
@@ -30,11 +30,20 @@ skills:
     skill: 
       - Go
       - Rust
+
   - category: DevOps
     skill:
       - Docker
       - Kubernetes
+
+    - category: Platfroms
+    skill:
+      - Apple OSX
+      - Linux
+        - CentOS
+
   - category: Scripting
+    skill:
       - Bash
       - Powershell
       - Python

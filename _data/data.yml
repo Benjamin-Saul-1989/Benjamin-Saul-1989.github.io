@@ -37,12 +37,6 @@ skills:
       - Kubernetes
       - Source Code Management
 
-    - category: Platfroms
-    skill:
-      - Apple OSX
-      - Linux
-        - CentOS
-
   - category: Scripting
     skill:
       - Bash

@@ -15,3 +15,4 @@ I have been DevOps for the past five plus years. After spending the first ten ye
 I have always said that I am lazy by design, so I guess that is why I am big into automating any part of life that I am doing over and over again you can beat that it is automated.
 
 ###### Stalk me if you like (in a nice way though):
+I am not really big into all the different social media, Twitter I enjoy but just to read. But if you must follow me any where I do believe that following me on Instagram is the best place to find me. 

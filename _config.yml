@@ -33,9 +33,14 @@ twitter:
   username: ngzhio
   card: summary
 logo: logo.png
+linkedin:
+  username: benjamin-saul-mcculloch
+  card: summary
+logo: linkedin.png
 social:
   name: Benjamin Saul McCulloch
   links:
+    - https://www.linkedin.com/in/benjamin-saul-mcculloch/
     - https://twitter.com/ngzhio
     - https://www.facebook.com/ngzhio
     - https://github.com/ngzhio

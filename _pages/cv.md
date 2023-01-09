@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,15 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Advanced Diploma in Information Technology - Networking & Security, TAFE SA,  2013
+* Diploma in Information Technology, TAFE SA, 2013
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* 2021 - Current 
+  * UST - Global 
+    * Duties included: Tagging issues
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
@@ -29,11 +28,15 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* DevOps
+  * Continuous Integration and Deployment Automation Tools
+  * Configuration Management
+  * Monitoring Tools
+  * Version Control
+* Cloud Computing
+  * Amazon Web Services
+  * Google Cloud Computing
+  * Microsoft Azure
 * Skill 3
 
 Publications

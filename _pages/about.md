@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About Me!"
+title: "Ahoy Hoy!"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Ahoy Hoy!
+
 Hello and welcome, my name is Benjamin or Ben. I am a DevOps Engineer, writer and confirmed geek from Australia but currently living in Mexico. 
 
 ##### When I was younger...

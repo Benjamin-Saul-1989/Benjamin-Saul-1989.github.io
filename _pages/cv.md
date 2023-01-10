@@ -17,24 +17,25 @@ Education
 Experience
 ======
 * 2021 - Current 
-#### UST - Global
-##### Lead II - Cloud Infrastructure / DevOps Engineer 
+##### UST - Global - Lead II - Cloud Infrastructure / DevOps Engineer 
   My role is to ensure the successful deployment of applications and services on the Azure cloud platform. Additionally, I am responsible for developing and maintaining the automation and      configuration management processes that are required to ensure the reliability, scalability, and security of our Azure-based applications and services.
 
   Furthermore, I am responsible for managing the monitoring of the enterprise infrastructure and applications, as well as troubleshooting any issues that arise. My goal is to ensure the successful deployment of applications and services on the Azure cloud platform, as well as to optimize their performance for the best user experience.
 * 2021 - 2021
-#### WSAudiology 
-##### DevOps Enginer
+##### WSAudiology - DevOps Enginer
+  My role is to ensure the successful deployment Windows Web Application environment hosted in Microsoft Azure. I was responsible for setting up, configuring, and maintaining the Windows environment, including the operating system, databases, and applications. 
 * 2020 - 2021
-#### iTexico
-##### Software Speiclist / DevOps Engineer
+##### iTexico -  Software Speiclist / DevOps Engineer
+  I am responsible for setting up and maintaining pipelines and logic apps for clients.
+
+  This includes configuring and optimizing the cloud infrastructure for maximum performance and reliability, as well as ensuring that all components of the system are running smoothly. I also work with other engineers to develop and deploy automation processes, as well as troubleshoot any issues that arise. 
 * 2019 - 2020
-#### Muttual
-##### DevOps Engineer
+##### Muttual - DevOps Engineer
+  I was responsible for maintaining and automating Windows Server and databases. This included setting up and configuring servers, monitoring system performance, managing backups and deploying new applications. I also worked on automating processes to improve efficiency and reduce manual labor. Additionally, I collaborated with the development team to ensure the applications were running optimally on the servers.
 * 2018 - 2019
-#### Epam Systems
-##### GSuite Specialist & GCP Specialist 
-### Techonlgies 
+##### Epam Systems - GSuite Specialist & GCP Specialist
+  I am responsible for providing technical assistance and guidance to customers using G-Suite and GCP products. I assist customers with technical issues, troubleshooting, and product-related questions. I also provide guidance on how to use the Google products and services to improve customer satisfaction. Additionally, I work with customers to ensure that their G-Suite and GCP products are properly configured and running optimally.
+### Techonlgie and Skills
 #### Analytics Tools
   * Grafana
   * Microsoft PowerBI
@@ -82,37 +83,15 @@ Experience
    * Go 
 #### Version Control
    * Git   
-Skills
+Traning
 ======
-* DevOps
-  * Continuous Integration and Deployment Automation Tools
-  * Configuration Management
-  * Monitoring Tools
-  * Version Control
-* Cloud Computing
-  * Amazon Web Services
-  * Google Cloud Computing
-  * Microsoft Azure
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+AZ-900 Microsoft Azure Fundamentals
+Azure Active Directory: Basics 
+DevSecOps: Continuous Application Security
+DevSecOps: Building a Secure Continuous Delivery Pipeline
+DevSecOps: Automated Security Testing
+Docker Certified Associate
+Learning Azure Network Security
+Learning Azure Management Tools
+Sovereign Leadership
+The Six Biases of Decision - Marking 

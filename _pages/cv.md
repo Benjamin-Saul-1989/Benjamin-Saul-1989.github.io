@@ -77,6 +77,7 @@ Education
   * Jenkins
   * GitLab
   * TeamCity
+
 #### Incident Response Platform
    * PagerDuty
 
@@ -91,8 +92,10 @@ Education
 #### Scripting
    * Bash
    * Powershell 
+   
 #### Software Development Process
   * Agile Development
+
 #### Programing
    * Go 
 

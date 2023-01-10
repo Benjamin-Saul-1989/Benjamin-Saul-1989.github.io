@@ -23,5 +23,5 @@ Once I got back to Austraila, I went and did re-entary school and finished my hi
 
 This site (benjamin-saul-1989.github.io) is a place I store quick posts. I guess it’s the closest thing I have to a blog.
 
-##### **Contact Info:**
-**Email:** benjaminsaulmcculloch@gmail.com
+#### **Contact Info:**
+##### **Email:** benjaminsaulmcculloch@gmail.com

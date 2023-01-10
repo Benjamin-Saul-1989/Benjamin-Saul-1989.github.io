@@ -92,7 +92,7 @@ Education
 #### Scripting
    * Bash
    * Powershell 
-   
+
 #### Software Development Process
   * Agile Development
 
@@ -107,6 +107,12 @@ AZ-900 Microsoft Azure Fundamentals
 
 Azure Active Directory: Basics
 
+AWS Certified DevOps Engineer
+
+Cisco CCNA
+
+Cisco CCNA Security
+
 DevSecOps: Continuous Application Security
 
 DevSecOps: Building a Secure Continuous Delivery Pipeline
@@ -118,6 +124,10 @@ Docker Certified Associate
 Learning Azure Network Security
 
 Learning Azure Management Tools
+
+Microsoft Certified Professional – 2012
+
+Red Hat Certified System Administrator EX 200
 
 Sovereign Leadership
 

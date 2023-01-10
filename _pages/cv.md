@@ -36,11 +36,14 @@ Education
 ##### Epam Systems - GSuite Specialist & GCP Specialist
   I am responsible for providing technical assistance and guidance to customers using G-Suite and GCP products. I assist customers with technical issues, troubleshooting, and product-related questions. I also provide guidance on how to use the Google products and services to improve customer satisfaction. Additionally, I work with customers to ensure that their G-Suite and GCP products are properly configured and running optimally.
 ### Techonlgie and Skills
+
 #### Analytics Tools
   * Grafana
   * Microsoft PowerBI
 
 #### Cloud Technology
+* Amazon AWS
+* Google GCP
 ##### Microsoft Azure
   * App Service
   * App Configuration
@@ -65,12 +68,15 @@ Education
 * Rackspace Cloud
 
 #### DevOps Tools
+  * Docker
 ##### Microsoft Azure DevOps
    * Boards
    * Piplines
    * Repos
    * Wiki
-
+  * Jenkins
+  * GitLab
+  * TeamCity
 #### Incident Response Platform
    * PagerDuty
 
@@ -85,7 +91,8 @@ Education
 #### Scripting
    * Bash
    * Powershell 
-
+#### Software Development Process
+  * Agile Development
 #### Programing
    * Go 
 
@@ -93,14 +100,22 @@ Education
    * Git   
 
 # Traning
-
 AZ-900 Microsoft Azure Fundamentals
-Azure Active Directory: Basics 
+
+Azure Active Directory: Basics
+
 DevSecOps: Continuous Application Security
+
 DevSecOps: Building a Secure Continuous Delivery Pipeline
+
 DevSecOps: Automated Security Testing
+
 Docker Certified Associate
+
 Learning Azure Network Security
+
 Learning Azure Management Tools
+
 Sovereign Leadership
-The Six Biases of Decision - Marking 
+
+The Six Biases of Decision - Marking

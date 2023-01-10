@@ -40,7 +40,7 @@ Experience
   * Grafana
   * Microsoft PowerBI
 #### Cloud Technology
-  Microsoft Azure
+##### Microsoft Azure
   * App Service
   * App Configuration
   * Azure Arc
@@ -61,9 +61,9 @@ Experience
   * Virtual Machine Scale Sets
   * Virtual Machines
   * Windows Virtual Machines
-  Rackspace Cloud
+* Rackspace Cloud
 #### DevOps Tools
-  Microsoft Azure DevOps
+##### Microsoft Azure DevOps
    * Boards
    * Piplines
    * Repos

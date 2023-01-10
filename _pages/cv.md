@@ -14,8 +14,8 @@ Education
 * Advanced Diploma in Information Technology - Networking & Security, TAFE SA,  2013
 * Diploma in Information Technology, TAFE SA, 2013
 
-Experience
-======
+# Experience
+
 * 2021 - Current 
 ##### UST - Global - Lead II - Cloud Infrastructure / DevOps Engineer 
   My role is to ensure the successful deployment of applications and services on the Azure cloud platform. Additionally, I am responsible for developing and maintaining the automation and      configuration management processes that are required to ensure the reliability, scalability, and security of our Azure-based applications and services.
@@ -39,6 +39,7 @@ Experience
 #### Analytics Tools
   * Grafana
   * Microsoft PowerBI
+
 #### Cloud Technology
 ##### Microsoft Azure
   * App Service
@@ -62,29 +63,37 @@ Experience
   * Virtual Machines
   * Windows Virtual Machines
 * Rackspace Cloud
+
 #### DevOps Tools
 ##### Microsoft Azure DevOps
    * Boards
    * Piplines
    * Repos
    * Wiki
+
 #### Incident Response Platform
    * PagerDuty
+
 #### Infrastructure As Code
    * Ansible
    * Arm Templates
    * Terraform
+
 #### Infrastructure Monitoring
    * Dynatrace   
+
 #### Scripting
    * Bash
    * Powershell 
+
 #### Programing
    * Go 
+
 #### Version Control
    * Git   
-Traning
-======
+
+# Traning
+
 AZ-900 Microsoft Azure Fundamentals
 Azure Active Directory: Basics 
 DevSecOps: Continuous Application Security

@@ -18,11 +18,10 @@ Experience
 ======
 * 2021 - Current 
   * UST - Global 
-    * My role is to ensure the successful deployment of applications and services on the Azure cloud platform. Additionally, I am responsible for developing and maintaining the automation and      configuration management processes that are required to ensure the reliability, scalability, and security of our Azure-based applications and services.
+    My role is to ensure the successful deployment of applications and services on the Azure cloud platform. Additionally, I am responsible for developing and maintaining the automation and      configuration management processes that are required to ensure the reliability, scalability, and security of our Azure-based applications and services.
 
     Furthermore, I am responsible for managing the monitoring of the enterprise infrastructure and applications, as well as troubleshooting any issues that arise. My goal is to ensure the successful deployment of applications and services on the Azure cloud platform, as well as to optimize their performance for the best user experience.
-    
-    ## Techonlgies  
+    ### Techonlgies  
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant

@@ -17,15 +17,28 @@ Education
 Experience
 ======
 * 2021 - Current 
-  #### UST - Global 
+#### UST - Global
+##### Lead II - Cloud Infrastructure / DevOps Engineer 
   My role is to ensure the successful deployment of applications and services on the Azure cloud platform. Additionally, I am responsible for developing and maintaining the automation and      configuration management processes that are required to ensure the reliability, scalability, and security of our Azure-based applications and services.
 
   Furthermore, I am responsible for managing the monitoring of the enterprise infrastructure and applications, as well as troubleshooting any issues that arise. My goal is to ensure the successful deployment of applications and services on the Azure cloud platform, as well as to optimize their performance for the best user experience.
-  ### Techonlgies 
-  #### Analytics Tools
+* 2021 - 2021
+#### WSAudiology 
+##### DevOps Enginer
+* 2020 - 2021
+#### iTexico
+##### Software Speiclist / DevOps Engineer
+* 2019 - 2020
+#### Muttual
+##### DevOps Engineer
+* 2018 - 2019
+#### Epam Systems
+##### GSuite Specialist & GCP Specialist 
+### Techonlgies 
+#### Analytics Tools
   * Grafana
   * Microsoft PowerBI
-  #### Cloud Technology
+#### Cloud Technology
   Microsoft Azure
   * App Service
   * App Configuration
@@ -48,7 +61,7 @@ Experience
   * Virtual Machines
   * Windows Virtual Machines
   Rackspace Cloud
-  #### DevOps Tools
+#### DevOps Tools
   Microsoft Azure DevOps
    * Boards
    * Piplines
@@ -68,13 +81,7 @@ Experience
 #### Programing
    * Go 
 #### Version Control
-   * Git 
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+   * Git   
 Skills
 ======
 * DevOps

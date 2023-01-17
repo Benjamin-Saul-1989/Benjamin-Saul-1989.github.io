@@ -67,48 +67,55 @@ Education
   * Windows Virtual Machines
 * Rackspace Cloud
 #### Databases
-  * Cassandra
-  * MariaDB
-  * Microsoft SQL
-  * MongoDB
-  * MySQL
-  * NOSQL
-  * Oracle SQL 
-  * PostgreSQL
+* Cassandra
+* MariaDB
+* Microsoft SQL
+* MongoDB
+* MySQL
+* NOSQL
+* Oracle SQL 
+* PostgreSQL
 #### DevOps Tools
-  * Docker
+* Docker
 ##### Microsoft Azure DevOps
-   * Boards
-   * Piplines
-   * Repos
-   * Wiki
-  * Jenkins
-  * GitLab
-  * TeamCity
+  * Boards
+  * Piplines
+  * Repos
+  * Wiki
+* Jenkins
+* GitLab
+* TeamCity
 
 #### Incident Response Platform
-   * PagerDuty
+* PagerDuty
 
 #### Infrastructure As Code
-   * Ansible
-   * Arm Templates
-   * Terraform
+* Ansible
+* Arm Templates
+* Terraform
 
 #### Infrastructure Monitoring
-   * Dynatrace   
+* Dynatrace   
 
 #### Scripting
-   * Bash
-   * Powershell 
+* Bash
+* Powershell 
 
 #### Software Development Process
-  * Agile Development
+* Agile Development
 
 #### Programing
-   * Go 
+* Go 
+
+#### Virtualization Technology
+* KVM
+* Microsoft HyperV
+* Oracle VM VirtualBox
+* Vmware ESXI
+  * Workstation
 
 #### Version Control
-   * Git   
+* Git   
 
 # Traning
 AZ-900 Microsoft Azure Fundamentals

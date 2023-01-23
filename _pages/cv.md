@@ -97,6 +97,10 @@ Education
 #### Infrastructure Monitoring
 * Dynatrace   
 
+#### Issue Tracking
+* Jira
+* Service Now
+
 #### Scripting
 * Bash
 * Powershell 
@@ -105,13 +109,15 @@ Education
 * Agile Development
 
 #### Programing
-* Go 
+* Go
+* Python
 
 #### Virtualization Technology
 * KVM
 * Microsoft HyperV
 * Oracle VM VirtualBox
-* Vmware ESXI
+* Vmware 
+  * ESXI
   * Workstation
 
 #### Version Control

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-If you require a copy of my CV please click on the following [link.](https://duckduckgo.com).
+If you require a copy of my CV please click on the following [link.](https://benjamin-saul-1989.github.io//documents/Resume - Benjamin Saul McCulloch.pdf).
 Education
 ======
 * Advanced Diploma in Information Technology - Networking & Security, TAFE SA,  2013

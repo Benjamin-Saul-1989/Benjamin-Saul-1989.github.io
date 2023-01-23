@@ -26,7 +26,7 @@ Education
   My role is to ensure the successful deployment Windows Web Application environment hosted in Microsoft Azure. I was responsible for setting up, configuring, and maintaining the Windows environment, including the operating system, databases, and applications. 
 * 2020 - 2021
 ##### iTexico -  Software Speiclist / DevOps Engineer
-  I am responsible for setting up and maintaining pipelines and logic apps for clients.
+  I was responsible for setting up and maintaining pipelines and logic apps for clients.
 
   This includes configuring and optimizing the cloud infrastructure for maximum performance and reliability, as well as ensuring that all components of the system are running smoothly. I also work with other engineers to develop and deploy automation processes, as well as troubleshoot any issues that arise. 
 * 2019 - 2020

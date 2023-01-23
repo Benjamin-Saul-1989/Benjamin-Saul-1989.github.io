@@ -22,7 +22,7 @@ Education
 
   Furthermore, I am responsible for managing the monitoring of the enterprise infrastructure and applications, as well as troubleshooting any issues that arise. My goal is to ensure the successful deployment of applications and services on the Azure cloud platform, as well as to optimize their performance for the best user experience.
 * 2021 - 2021
-##### WSAudiology - DevOps Enginer
+##### WSAudiology - Lead DevOps Engineer
   My role is to ensure the successful deployment Windows Web Application environment hosted in Microsoft Azure. I was responsible for setting up, configuring, and maintaining the Windows environment, including the operating system, databases, and applications. 
 * 2020 - 2021
 ##### iTexico -  Software Speiclist / DevOps Engineer

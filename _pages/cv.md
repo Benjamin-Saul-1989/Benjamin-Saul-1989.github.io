@@ -88,6 +88,20 @@ Education
 * GitLab
 * TeamCity
 
+#### Operating System
+  * BSD
+    * FreeBSD
+    * Open BSD
+  * Linux
+    * Arch
+    * Debian
+    * Fedora
+    * Red Hat
+    * OpenSuse
+  * Microsoft Windows
+  * Microsoft Server
+  * Unix
+
 #### Incident Response Platform
 * PagerDuty
 
@@ -103,16 +117,16 @@ Education
 * Jira
 * Service Now
 
+#### Programing
+* Go
+* Python
+
 #### Scripting
 * Bash
 * Powershell 
 
 #### Software Development Process
 * Agile Development
-
-#### Programing
-* Go
-* Python
 
 #### Virtualization Technology
 * KVM

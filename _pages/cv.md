@@ -47,12 +47,12 @@ Education
 * Amazon AWS
 * Google GCP
 ##### Microsoft Azure
-  * App Service
   * App Configuration
-  * Azure Arc
-  * Azure Functions
+  * App Service
   * Azure Analysis Services
+  * Azure Arc
   * Azure Data Explorer
+  * Azure Functions
   * Azure Functions
   * Azure VM Image Builder
   * Azure VMware Solution
@@ -62,8 +62,8 @@ Education
   * Event Hubs
   * Linux Virtual Machines
   * Logic Apps
-  * Static Web Apps
   * Power BI Embedded
+  * Static Web Apps
   * Virtual Machine Scale Sets
   * Virtual Machines
   * Windows Virtual Machines
@@ -84,22 +84,24 @@ Education
   * Piplines
   * Repos
   * Wiki
-* Jenkins
 * GitLab
+* Jenkins
 * TeamCity
 
 #### Operating System
   * BSD
     * FreeBSD
-    * Open BSD
+    * NetBSD
+    * OpenBSD
   * Linux
     * Arch
     * Debian
     * Fedora
-    * Red Hat
     * OpenSuse
-  * Microsoft Windows
+    * Red Hat
+    * Ubuntu
   * Microsoft Server
+  * Microsoft Windows
   * Unix
 
 #### Incident Response Platform
@@ -140,32 +142,18 @@ Education
 * Git   
 
 # Traning
-AZ-900 Microsoft Azure Fundamentals
-
-Azure Active Directory: Basics
-
 AWS Certified DevOps Engineer
-
+AZ-900 Microsoft Azure Fundamentals
+Azure Active Directory: Basics
 Cisco CCNA
-
 Cisco CCNA Security
-
-DevSecOps: Continuous Application Security
-
-DevSecOps: Building a Secure Continuous Delivery Pipeline
-
 DevSecOps: Automated Security Testing
-
+DevSecOps: Building a Secure Continuous Delivery Pipeline
+DevSecOps: Continuous Application Security
 Docker Certified Associate
-
-Learning Azure Network Security
-
 Learning Azure Management Tools
-
+Learning Azure Network Security
 Microsoft Certified Professional – 2012
-
 Red Hat Certified System Administrator EX 200
-
 Sovereign Leadership
-
 The Six Biases of Decision - Marking

@@ -8,22 +8,30 @@ redirect_from:
 ---
 
 {% include base_path %}
+# Summary
+DevOps engineer senior with over 5 years of experience in delivering and maintaining large-scale, highly available systems, I am confident in my ability to make a valuable contribution to your organization. I have a proven track record of success in designing, implementing, and maintaining infrastructure, automation, and continuous integration/delivery.
+
+My technical expertise includes experience with cloud platforms such as AWS, Azure, and GCP, as well as proficiency in programming languages such as Python, Bash and ASP.NET. I am also well-versed in agile methodologies, and have a deep understanding of containerization and orchestration technologies such as Docker and Kubernetes. 
 
 If you require a copy of my CV please click on the following [link](https://benjamin-saul-1989.github.io//documents/Resume - Benjamin Saul McCulloch 2023.pdf).
 
-Education
+# Education
 ======
 * Advanced Diploma in Information Technology - Networking & Security, TAFE SA,  2013
 * Diploma in Information Technology, TAFE SA, 2013
 
 # Experience
+### UST - Global - Lead II - Cloud Infrastructure / DevOps Engineer
+#### Apr 2021 – Present. Client: AvidXChange
+My role involves coordinating with twelve teams to address their DevOps needs. Since joining the team in 2021, my responsibilities have evolved monthly to cater to the diverse requirements of these teams.
 
-* 2021 - Current 
-##### UST - Global - Lead II - Cloud Infrastructure / DevOps Engineer 
-  My role is to ensure the successful deployment of applications and services on the Azure cloud platform. Additionally, I am responsible for developing and maintaining the automation and      configuration management processes that are required to ensure the reliability, scalability, and security of our Azure-based applications and services.
+One of my notable achievements during this period was the consolidation of a single monitoring tool. Previously, the twelve teams used different monitoring tools. This process was complex, given that we had to automate the deployment of monitoring agents across more than 1000 servers in the pool, including any new additions.
 
-  Furthermore, I am responsible for managing the monitoring of the enterprise infrastructure and applications, as well as troubleshooting any issues that arise. My goal is to ensure the successful deployment of applications and services on the Azure cloud platform, as well as to optimize their performance for the best user experience.
-* 2021 - 2021
+To streamline this, we established a baseline profile for each team, ensuring that they only received alerts relevant to their specific needs. This allowed teams to focus on real-world issues.
+
+Starting in 2023, I transitioned to working with the next-generation team, where I assist in developing tools and setting standards for the next generation of platforms.
+
+Additionally, apart from my role with the client, UST entrusted me with the responsibility of interviewing and screening all new candidates to ensure they meet the client's expectations in terms of both English proficiency and technical skills.
 ##### WSAudiology - Lead DevOps Engineer
   My role is to ensure the successful deployment Windows Web Application environment hosted in Microsoft Azure. I was responsible for setting up, configuring, and maintaining the Windows environment, including the operating system, databases, and applications. 
 * 2020 - 2021

@@ -16,13 +16,12 @@ My technical expertise includes experience with cloud platforms such as AWS, Azu
 If you require a copy of my CV please click on the following [link](https://benjamin-saul-1989.github.io//documents/Resume - Benjamin Saul McCulloch 2023.pdf).
 
 # Education
-======
 * Advanced Diploma in Information Technology - Networking & Security, TAFE SA,  2013
-* Diploma in Information Technology, TAFE SA, 2013
+* Diploma in Information Technology, TAFE SA, 2012
 
 # Experience
 ### UST - Global - Lead II - Cloud Infrastructure / DevOps Engineer
-#### Apr 2021 – Present. Client: AvidXChange
+#### Mexico, Apr 2021 – Present. Client: AvidXChange
 My role involves coordinating with twelve teams to address their DevOps needs. Since joining the team in 2021, my responsibilities have evolved monthly to cater to the diverse requirements of these teams.
 
 One of my notable achievements during this period was the consolidation of a single monitoring tool. Previously, the twelve teams used different monitoring tools. This process was complex, given that we had to automate the deployment of monitoring agents across more than 1000 servers in the pool, including any new additions.
@@ -32,20 +31,39 @@ To streamline this, we established a baseline profile for each team, ensuring th
 Starting in 2023, I transitioned to working with the next-generation team, where I assist in developing tools and setting standards for the next generation of platforms.
 
 Additionally, apart from my role with the client, UST entrusted me with the responsibility of interviewing and screening all new candidates to ensure they meet the client's expectations in terms of both English proficiency and technical skills.
-##### WSAudiology - Lead DevOps Engineer
-  My role is to ensure the successful deployment Windows Web Application environment hosted in Microsoft Azure. I was responsible for setting up, configuring, and maintaining the Windows environment, including the operating system, databases, and applications. 
-* 2020 - 2021
-##### iTexico -  Software Speiclist / DevOps Engineer
-  I was responsible for setting up and maintaining pipelines and logic apps for clients.
+### WSAudiology - Lead DevOps Engineer
+#### Demark (Remote), Mar 2021 - Apr 2021 
+While working at WS Audiology, my role primarily involved liaising with the development team to convey stakeholder requirements. Additionally, I was responsible for ensuring the accurate deployment of applications to various environments. Furthermore, I acted as the bridge between customers and our product, documenting any issues they encountered and relaying that feedback to both stakeholders and the development team.
 
-  This includes configuring and optimizing the cloud infrastructure for maximum performance and reliability, as well as ensuring that all components of the system are running smoothly. I also work with other engineers to develop and deploy automation processes, as well as troubleshoot any issues that arise. 
-* 2019 - 2020
-##### Muttual - DevOps Engineer
-  I was responsible for maintaining and automating Windows Server and databases. This included setting up and configuring servers, monitoring system performance, managing backups and deploying new applications. I also worked on automating processes to improve efficiency and reduce manual labor. Additionally, I collaborated with the development team to ensure the applications were running optimally on the servers.
-* 2018 - 2019
-##### Epam Systems - GSuite Specialist & GCP Specialist
-  I am responsible for providing technical assistance and guidance to customers using G-Suite and GCP products. I assist customers with technical issues, troubleshooting, and product-related questions. I also provide guidance on how to use the Google products and services to improve customer satisfaction. Additionally, I work with customers to ensure that their G-Suite and GCP products are properly configured and running optimally.
-### Techonlgie and Skills
+I held the position of Lead DevOps Engineer for the web kiosk project at WS Audiology. This project aimed to streamline the process for clients to visit our stores and book appointments. During this period, my main responsibility was to ensure smooth deployment, although this process was largely manual at the time, as the team had not yet adopted a software deployment tool.
+### iTexico -  Software Speiclist / DevOps Engineer
+#### Mexico, Sep 2020 - Mar 2021 Clients: BestPast and Get Giddy
+Client: BestPast, During my tenure, I was responsible for establishing and maintaining the CICD platform. My daily duties included troubleshooting pipelines, creating new ones, and implementing automated testing for the web application.
+
+Client: Get Giddy, While working on the Giddy project, my role involved developing a chatbot to better understand our customers' needs and ensure they received the appropriate medical device. This was a crucial requirement due to the nature of the Giddy device. Additionally, I was responsible for supporting and maintaining the Microsoft Logic App, which processed customer orders.
+### Muttual - DevOps Engineer
+#### Mexico, Jul 2019 - Sep 2020 Clients: Stemmons and Boxer Property
+During my tenure, I assisted clients from Stemmons and Boxer Property in utilizing the Stemmons software package.
+My daily responsibilities encompassed:
+•	Administering Azure resources, including Virtual Machines, in alignment with specific requirements.
+•	Managing virtual networks, assigning disks, and creating snapshots.
+•	Overseeing storage accounts and databases, both on Azure and on-premises.
+I also played a key role in configuring various environments, both locally and for customers, utilizing their ServiceNow ticket system.
+### Epam Systems - GSuite Specialist & GCP Specialist
+#### Mexico, Aug 2018 - Jul 2019 Client: Google
+Working with Google's top 1% of customers to troubleshoot their G-Suite issues.
+On a daily basis, my responsibilities included:
+•	Diagnosing and resolving Google Cloud issues for clients.
+•	Conducting follow-up calls with clients to ensure all their issues were successfully resolved.
+•	Documenting areas for potential team improvement.
+Also, during this time, I worked on the development of new G-Suite migration tool.
+### Tornilturcas Lider - Systems Administrator
+#### Mexico,  Jan – 2015 – Feb 2018 
+### ABCS - Systems Engineer
+#### Australia, Jan 2012 – Dec 2012
+### Amor Flowers- Systems Administrator and Website Maintainer
+#### Japan, Jan – 2008 – Feb 2009 
+## Techonlgie and Skills
 
 #### Analytics Tools
   * Grafana

@@ -20,7 +20,7 @@ If you require a copy of my CV please click on the following [link](https://benj
 * Diploma in Information Technology, TAFE SA, 2012
 
 # Experience
-### UST - Global - Lead II - Cloud Infrastructure / DevOps Engineer - Mexico, 2021 – Present. Client: AvidXChange
+### UST - Global - Lead III - Cloud Infrastructure / DevOps Engineer - Mexico, 2021 – Present. Client: AvidXChange
 
 #### Page Team 2023 - 2024
 Currently I am responsible for helping teams deploy code and ensuring that all code across the platform was SOX compliant using Azure DevOps, Microsoft Cloud Defender Services, PowerShell, and Terraform. 

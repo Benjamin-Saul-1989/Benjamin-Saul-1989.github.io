@@ -96,6 +96,7 @@ Responsibilities:
 *	Managing virtual networks, assigning disks, and creating snapshots.
 *	Overseeing storage accounts and databases, both on Azure and on-premises.
 * I also played a key role in configuring various environments, both locally and for customers, utilizing their ServiceNow ticket system.
+
 ### Epam Systems - GSuite Specialist & GCP Specialist - Mexico, 2017 - 2018 Client: Google
 Working with Google's top 1% of customers to troubleshoot their G-Suite issues.
 

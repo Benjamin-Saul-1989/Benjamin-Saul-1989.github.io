@@ -105,8 +105,8 @@ Responsibilities:
 *	Documenting areas for potential team improvement.
 Also, during this time, I worked on the development of new G-Suite migration tool.
 ### Tornilturcas Lider - Systems Administrator - Mexico, 2015 – 2016 
-### ABCS - Systems Engineer - #### Australia, 2012 – 2012
-### Amor Flowers- Systems Administrator and Website Maintainer - #### Japan, 2008 – 2009 
+### ABCS - Systems Engineer - Australia, 2012 – 2012
+### Amor Flowers- Systems Administrator and Website Maintainer - Japan, 2008 – 2009 
 ## Techonlgie and Skills
 
 #### Analytics Tools

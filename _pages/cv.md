@@ -32,13 +32,13 @@ If you require a copy of my CV please click on the following [link](https://benj
 I am responsible for working with clients helping fortify their security posture, applying industry-leading cybersecurity frameworks and best practices. My role focuses on helping organizations achieve compliance, strengthen their defenses, and remediate vulnerabilities across both cloud and on-premises environments. Leveraging extensive expertise in frameworks like CIS, NIST, ISO 27001 and 27002, SOC 2, PCI-DSS, COBIT, HITRUST Common Security Framework, Cloud Control Matrix (CCM), CMMC 2.0, Essential 8, and Cyber Essentials, I provide actionable guidance to secure complex infrastructures. My primary areas of focus include Microsoft 365, Microsoft Azure, and on-site deployments involving Microsoft and Linux systems.
 
 Responsibilities:
-• Microsoft 365: Implementing security baselines, configuring advanced threat protection (ATP), monitoring audit logs, and ensuring compliance with frameworks like CIS and Essential 8.
-• Identity and Access Management (IAM): Deploying Azure Active Directory (Azure AD) with strong multi-factor authentication (MFA), conditional access policies, and role-based access control (RBAC) to ensure secure user access.
-• Data Protection: Ensuring sensitive data is safeguarded through Microsoft Information Protection (MIP), data loss prevention (DLP), and encryption strategies.
-• Azure Security Center: Leveraging Azure tools like Microsoft Defender for Cloud and Azure Monitor to provide continuous threat detection, compliance monitoring, and incident response.
-• Designing and implementing Azure network security groups (NSGs), firewalls, and VPNs to protect cloud workloads against unauthorized access.
-• Integrating Microsoft Defender for Endpoint to protect devices across hybrid environments.
-• Code aduits: Bash, Terraform, Python, PowerShell.  
+* Microsoft 365: Implementing security baselines, configuring advanced threat protection (ATP), monitoring audit logs, and ensuring compliance with frameworks like CIS and Essential 8.
+* Identity and Access Management (IAM): Deploying Azure Active Directory (Azure AD) with strong multi-factor authentication (MFA), conditional access policies, and role-based access control (RBAC) to ensure secure user access.
+* Data Protection: Ensuring sensitive data is safeguarded through Microsoft Information Protection (MIP), data loss prevention (DLP), and encryption strategies.
+* Azure Security Center: Leveraging Azure tools like Microsoft Defender for Cloud and Azure Monitor to provide continuous threat detection, compliance monitoring, and incident response.
+* Designing and implementing Azure network security groups (NSGs), firewalls, and VPNs to protect cloud workloads against unauthorized access.
+* Integrating Microsoft Defender for Endpoint to protect devices across hybrid environments.
+* Code aduits: Bash, Terraform, Python, PowerShell.  
 
 ### UST - Global - Lead III - Cloud Infrastructure / DevOps Engineer - Mexico, 2021 – 2024. Client: AvidXChange
 
@@ -46,37 +46,37 @@ Responsibilities:
 I am responsible for helping teams deploy code and ensuring that all code across the platform was SOX compliant using Azure DevOps, Microsoft Cloud Defender Services, PowerShell, and Terraform. 
 
 Responsibilities:
-• Collaborating with development and operations teams to understand and implement the requirements and standards for SOX compliance.
-• Using Azure DevOps Services to create and manage pipelines, repositories, boards, artifacts, and test plans.
-• Writing and executing PowerShell scripts to automate tasks, such as code analysis, security scanning, configuration management, and deployment.
-• Using Terraform to define and apply infrastructure as code (IaC) for cloud resources, such as virtual machines, networks, storage, and databases.
-• Monitoring and auditing the performance, availability, and security of the applications and services using tools like Azure Monitor, Log Analytics, and Application Insights.
-• Documenting and reporting on the status, issues, and results of the deployment and compliance process.
-• Written a chatbot  using C# and Microsoft Bot Framework.
-• Microsoft Defender for Cloud, helping teams set up and optimize their cloud security.
+* Collaborating with development and operations teams to understand and implement the requirements and standards for SOX compliance.
+* Using Azure DevOps Services to create and manage pipelines, repositories, boards, artifacts, and test plans.
+* Writing and executing PowerShell scripts to automate tasks, such as code analysis, security scanning, configuration management, and deployment.
+* Using Terraform to define and apply infrastructure as code (IaC) for cloud resources, such as virtual machines, networks, storage, and databases.
+* Monitoring and auditing the performance, availability, and security of the applications and services using tools like Azure Monitor, Log Analytics, and Application Insights.
+* Documenting and reporting on the status, issues, and results of the deployment and compliance process.
+* Written a chatbot  using C# and Microsoft Bot Framework.
+* Microsoft Defender for Cloud, helping teams set up and optimize their cloud security.
 #### COP Team 2023 -2023
 
 I handled the maintenance of the Kubernetes cluster and wrote bash scripts, PowerShell scripts, and docker files to automate and streamline the deployment of various applications and services. I also used Terraform to provision and configure cloud resources in a consistent and repeatable manner. 
 
 Responsibilities:
-• Managing and troubleshooting the Kubernetes cluster and its components, such as pods, services, deployments, and ingress controllers.
-• Writing and maintaining bash scripts and powershell scripts to perform various tasks, such as installing dependencies, running tests, and executing commands.
-• Writing and maintaining docker files to create and update container images for different applications and services.
-• Using Terraform to define and apply infrastructure as code (IaC) for cloud resources, such as virtual machines, networks, load balancers, and databases.
-• Implementing and improving continuous integration and continuous delivery (CI/CD) pipelines using tools like Jenkins, GitHub Actions, or Azure DevOps.
-• Monitoring and optimizing the performance, availability, and security of the applications and services using tools like Prometheus, Grafana, or Azure Monitor.
+*Managing and troubleshooting the Kubernetes cluster and its components, such as pods, services, deployments, and ingress controllers.
+*Writing and maintaining bash scripts and powershell scripts to perform various tasks, such as installing dependencies, running tests, and executing commands.
+*Writing and maintaining docker files to create and update container images for different applications and services.
+* Using Terraform to define and apply infrastructure as code (IaC) for cloud resources, such as virtual machines, networks, load balancers, and databases.
+* Implementing and improving continuous integration and continuous delivery (CI/CD) pipelines using tools like Jenkins, GitHub Actions, or Azure DevOps.
+* Monitoring and optimizing the performance, availability, and security of the applications and services using tools like Prometheus, Grafana, or Azure Monitor.
 
 #### Enterprise Monitoring Team 2021  - 2023
 
 I was responsible for leading the process of setting up and maintaining monitoring tools across 12 projects using Azure Log Analytics, Azure Alerts, Grafana, and Dynatrace. 
 
 Responsibilities:
-• Designing and implementing monitoring strategies for various applications and systems using Azure Monitor.
-• Analyzing and troubleshooting issues using Azure Log Analytics queries, Grafana dashboards, and Dynatrace.
-• Configuring and managing Azure Alerts to notify stakeholders of critical incidents and performance anomalies.
-• Creating and maintaining documentation and reports on monitoring metrics, SLAs, and KPIs.
-• Collaborating with development and operations teams to ensure the reliability, availability, and security of the applications and systems.
-• Evaluating and recommending new monitoring tools and best practices to improve the monitoring process and customer experience.
+* Designing and implementing monitoring strategies for various applications and systems using Azure Monitor.
+* Analyzing and troubleshooting issues using Azure Log Analytics queries, Grafana dashboards, and Dynatrace.
+* Configuring and managing Azure Alerts to notify stakeholders of critical incidents and performance anomalies.
+* Creating and maintaining documentation and reports on monitoring metrics, SLAs, and KPIs.
+* Collaborating with development and operations teams to ensure the reliability, availability, and security of the applications and systems.
+* Evaluating and recommending new monitoring tools and best practices to improve the monitoring process and customer experience.
 
 #### UST Duties
 Additionally, apart from my role with the client, UST entrusted me with the responsibility of interviewing and screening all new candidates to ensure they meet the client's expectations in terms of both English proficiency and technical skills.
@@ -92,17 +92,17 @@ Client: Get Giddy, While working on the Giddy project, my role involved developi
 During my tenure, I assisted clients from Stemmons and Boxer Property in utilizing the Stemmons software package.
 
 Responsibilities:
-•	Administering Azure resources, including Virtual Machines, in alignment with specific requirements.
-•	Managing virtual networks, assigning disks, and creating snapshots.
-•	Overseeing storage accounts and databases, both on Azure and on-premises.
-• I also played a key role in configuring various environments, both locally and for customers, utilizing their ServiceNow ticket system.
+*	Administering Azure resources, including Virtual Machines, in alignment with specific requirements.
+*	Managing virtual networks, assigning disks, and creating snapshots.
+*	Overseeing storage accounts and databases, both on Azure and on-premises.
+* I also played a key role in configuring various environments, both locally and for customers, utilizing their ServiceNow ticket system.
 ### Epam Systems - GSuite Specialist & GCP Specialist - Mexico, 2017 - 2018 Client: Google
 Working with Google's top 1% of customers to troubleshoot their G-Suite issues.
 
 Responsibilities:
-•	Diagnosing and resolving Google Cloud issues for clients.
-•	Conducting follow-up calls with clients to ensure all their issues were successfully resolved.
-•	Documenting areas for potential team improvement.
+*	Diagnosing and resolving Google Cloud issues for clients.
+*	Conducting follow-up calls with clients to ensure all their issues were successfully resolved.
+*	Documenting areas for potential team improvement.
 Also, during this time, I worked on the development of new G-Suite migration tool.
 ### Tornilturcas Lider - Systems Administrator - Mexico, 2015 – 2016 
 ### ABCS - Systems Engineer - #### Australia, 2012 – 2012
@@ -212,18 +212,18 @@ Also, during this time, I worked on the development of new G-Suite migration too
 * Git   
 
 # Traning
-AWS Certified DevOps Engineer
-AZ-900 Microsoft Azure Fundamentals
-Azure Active Directory: Basics
-Cisco CCNA
-Cisco CCNA Security
-DevSecOps: Automated Security Testing
-DevSecOps: Building a Secure Continuous Delivery Pipeline
-DevSecOps: Continuous Application Security
-Docker Certified Associate
-Learning Azure Management Tools
-Learning Azure Network Security
-Microsoft Certified Professional – 2012
-Red Hat Certified System Administrator EX 200
-Sovereign Leadership
-The Six Biases of Decision - Marking
+* AWS Certified DevOps Engineer
+* AZ-900 Microsoft Azure Fundamentals
+* Azure Active Directory: Basics
+* Cisco CCNA
+* Cisco CCNA Security
+* DevSecOps: Automated Security Testing
+* DevSecOps: Building a Secure Continuous Delivery Pipeline
+* DevSecOps: Continuous Application Security
+* Docker Certified Associate
+* Learning Azure Management Tools
+* Learning Azure Network Security
+* Microsoft Certified Professional – 2012
+* Red Hat Certified System Administrator EX 200
+* Sovereign Leadership
+* The Six Biases of Decision - Marking

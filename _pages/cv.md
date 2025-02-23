@@ -41,7 +41,6 @@ Responsibilities:
 * Code aduits: Bash, Terraform, Python, PowerShell.  
 
 ### UST - Global - Lead III - Cloud Infrastructure / DevOps Engineer - Mexico, 2021 – 2024. Client: AvidXChange
-
 #### Page Team 2023 - 2024
 I am responsible for helping teams deploy code and ensuring that all code across the platform was SOX compliant using Azure DevOps, Microsoft Cloud Defender Services, PowerShell, and Terraform. 
 
@@ -55,7 +54,6 @@ Responsibilities:
 * Written a chatbot  using C# and Microsoft Bot Framework.
 * Microsoft Defender for Cloud, helping teams set up and optimize their cloud security.
 #### COP Team 2023 -2023
-
 I handled the maintenance of the Kubernetes cluster and wrote bash scripts, PowerShell scripts, and docker files to automate and streamline the deployment of various applications and services. I also used Terraform to provision and configure cloud resources in a consistent and repeatable manner. 
 
 Responsibilities:
@@ -67,7 +65,6 @@ Responsibilities:
 * Monitoring and optimizing the performance, availability, and security of the applications and services using tools like Prometheus, Grafana, or Azure Monitor.
 
 #### Enterprise Monitoring Team 2021  - 2023
-
 I was responsible for leading the process of setting up and maintaining monitoring tools across 12 projects using Azure Log Analytics, Azure Alerts, Grafana, and Dynatrace. 
 
 Responsibilities:
@@ -77,17 +74,19 @@ Responsibilities:
 * Creating and maintaining documentation and reports on monitoring metrics, SLAs, and KPIs.
 * Collaborating with development and operations teams to ensure the reliability, availability, and security of the applications and systems.
 * Evaluating and recommending new monitoring tools and best practices to improve the monitoring process and customer experience.
-
 #### UST Duties
 Additionally, apart from my role with the client, UST entrusted me with the responsibility of interviewing and screening all new candidates to ensure they meet the client's expectations in terms of both English proficiency and technical skills.
+
 ### WSAudiology - Lead DevOps Engineer - Demark (Remote), 2021 - 2021 
 While working at WS Audiology, my role primarily involved liaising with the development team to convey stakeholder requirements. Additionally, I was responsible for ensuring the accurate deployment of applications to various environments. Furthermore, I acted as the bridge between customers and our product, documenting any issues they encountered and relaying that feedback to both stakeholders and the development team.
 
 I held the position of Lead DevOps Engineer for the web kiosk project at WS Audiology. This project aimed to streamline the process for clients to visit our stores and book appointments. During this period, my main responsibility was to ensure smooth deployment, although this process was largely manual at the time, as the team had not yet adopted a software deployment tool.
+
 ### iTexico -  Software Speiclist / DevOps Engineer - Mexico, 2020 - 2021 Clients: BestPast and Get Giddy
 Client: BestPast, During my tenure, I was responsible for establishing and maintaining the CICD platform. My daily duties included troubleshooting pipelines, creating new ones, and implementing automated testing for the web application.
 
 Client: Get Giddy, While working on the Giddy project, my role involved developing a chatbot to better understand our customers' needs and ensure they received the appropriate medical device. This was a crucial requirement due to the nature of the Giddy device. Additionally, I was responsible for supporting and maintaining the Microsoft Logic App, which processed customer orders.
+
 ### Muttual - DevOps Engineer -  Mexico, 2018 - 2020 Clients: Stemmons and Boxer Property
 During my tenure, I assisted clients from Stemmons and Boxer Property in utilizing the Stemmons software package.
 

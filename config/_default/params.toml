@@ -9,7 +9,7 @@ colorScheme = "congo"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
 
-defaultThemeColor = "#000000"
+defaultThemeColor = "dark"
 
 enableSearch = false
 enableCodeCopy = false

@@ -1,26 +1,19 @@
-### Node ###
-# Dependency directories
-node_modules/
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
 
-### Hugo ###
-# Generated files by hugo
-**/public/
-**/resources/_gen/
+# Test binary, built with `go test -c`
+*.test
 
-# Executable may be added to repository
-hugo.exe
-hugo.darwin
-hugo.linux
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
 
-# Temporary lock file while building
-.hugo_build.lock
+# Dependency directories (remove the comment below to include it)
+# vendor/
 
-### Congo ###
-# Lighthouse generated output
-.lighthouseci
-
-# Project specific files
-TODO
-
-# MacOS 
-.DS_Store
+/exampleSite/public
+/exampleSite/resources
+/exampleSite/.hugo_build.lock

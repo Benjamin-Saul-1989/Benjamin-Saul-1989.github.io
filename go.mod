@@ -1,3 +1,3 @@
-module github.com/jpanther/congo/v2
+module github.com/barklan/hugo-dead-simple
 
-go 1.16
+go 1.18

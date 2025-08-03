@@ -3,11 +3,10 @@ repository: sproogen/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: test@email.com
-phone: 07845248563
-website: sproogen.github.io/modern-resume-theme
+name: Benjamin Saul McCulloch
+title: DevOps Engineer / Blue Team Engineer
+location: Mexico
+email: benjaminsaulmcculloch@protonmail.com
 
 # Social links
 twitter_username: jekyllrb

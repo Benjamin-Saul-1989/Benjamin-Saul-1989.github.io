@@ -30,6 +30,8 @@ jobs:
         run: npm ci
       - name: Install ImageMagick
         run: sudo apt-get install -y imagemagick
+      - name: Install Jupyter
+        run: pip install jupyter nbconvert
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

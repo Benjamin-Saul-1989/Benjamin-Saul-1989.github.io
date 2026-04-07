@@ -1,189 +1,231 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Benjamin Saul McCulloch
+  label: Senior DevOps Engineer | Pentester | Security Researcher | Educator
+  email: benjaminsaulmcculloch@gmail.com
+  location: Mexico City, Mexico
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: 15+ years solving complex technology challenges at the intersection of development, operations, and security. Treat security as code, automate everything worth repeating, and measure what matters. Native English speaker with working Spanish and elementary Japanese.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: benjaminsaul-mcculloch
+    - network: GitHub
+      username: Benjamin-Saul-1989
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: UST — Wolters Kluwer (SureTax)
+        position: Senior Site Reliability Engineer
+        location: Mexico City, Mexico
+        start_date: 2025-09-01
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - Designed patch management system for 36 legacy Windows Servers using Azure Automation — zero patch-related incidents post-deployment.
+          - Designed CI/CD pipelines for zero-downtime deployments across Azure, AWS, and on-premises with blue-green strategies.
+          - Reduced mean time to recovery by 65% using Datadog and PagerDuty.
+          - Maintained SOC 2 and ISO 27001 compliance through continuous monitoring.
+          - Reduced infrastructure costs by 30% through Kubernetes adoption.
+          - Led containerisation of legacy web applications to AKS.
+          - Authored approximately 50 PowerShell scripts to automate operational tasks.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: UST — Wolters Kluwer (SureTax)
+        position: Senior DevOps Engineer
+        location: Mexico City, Mexico
+        start_date: 2025-04-01
+        end_date: 2025-09-01
         highlights:
-          - Description 1.
-          - Description 2.
+          - Led rollout of DevSecOps standards across all engineering teams company-wide.
+          - Architected CI/CD pipelines embedding SAST, DAST, container scanning, and secret detection.
+          - Authored 100+ Terraform scripts for Azure and AWS infrastructure.
+          - Built cloud cost monitoring dashboards using Kusto and Grafana.
+          - Reduced mean time to remediation by 70% using SIEM tools.
+          - Led adoption of Datadog for enterprise-wide monitoring.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Affila Technology
+        position: Cyber Security Specialist
+        location: New York, United States (Remote)
+        start_date: 2025-03-01
+        end_date: present
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Lead security audits against NIST CSF, NIST 800-53, CIS Controls, ISO 27001, PCI DSS, and SOC 2.
+          - Serve as security adviser on boards of two non-profit organisations.
+          - Lead red team exercises using Kali Linux with custom CVE cross-referencing automation tool.
+          - Develop expertise in securing AI agents, ML pipelines, and LLM implementations.
+          - Design security architectures across Azure, AWS, and GCP.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: Avertium
+        position: Architecture and Optimization
+        location: Mexico City, Mexico
+        start_date: 2024-07-01
+        end_date: 2025-04-01
+        highlights:
+          - Delivered security audits to 14 large-scale enterprise clients across multiple industries.
+          - Built Python and AI-powered reporting tool transforming audit findings into professional client reports.
+          - Secured Avertium's first Mexican client and volunteered at BSides Mexico.
+          - Implemented Microsoft Defender for Endpoint, Azure AD MFA, Conditional Access, and RBAC.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: UST — AvidXchange
+        position: Senior Cloud Architecture and DevOps | Kubernetes Administrator | SOC Auditor
+        location: Mexico City, Mexico
+        start_date: 2021-04-01
+        end_date: 2024-06-01
+        highlights:
+          - Monitoring Team — migrated all teams to Dynatrace across 400 servers, delivering 98% reduction in outages.
+          - Next Gen Team — authored Terraform IaC across Azure, AWS, and on-premises with Grafana dashboards.
+          - PAGE Team — led containerisation initiative migrating legacy apps to AKS with Helm charts and pipelines.
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - company: WSAudiology
+        position: DevOps Engineer
+        location: United States (Remote)
+        start_date: 2021-03-01
+        end_date: 2021-04-01
+        highlights:
+          - Provisioned Red Hat Linux servers for web application and database workloads.
+          - Built automated deployment pipelines using Jenkins and Ansible.
+          - Implemented monitoring and alerting using Nagios and Prometheus.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - company: iTexico
+        position: Software Specialist and DevOps Engineer
+        location: Mexico City, Mexico
+        start_date: 2020-09-01
+        end_date: 2021-03-01
+        highlights:
+          - Set up TeamCity CI/CD from scratch with full SAST, DAST, dependency, and container scanning suite.
+          - Built automated data pipeline integrating Salesforce into Azure Logic Apps for GetGiddy.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - company: Muttual
+        position: DevOps Specialist
+        location: Mexico City, Mexico
+        start_date: 2019-07-01
+        end_date: 2020-09-01
+        highlights:
+          - Supported Stemmons platform deployment and maintenance for 10+ enterprise clients.
+          - Performed application development and bug fixes in ASP.NET and C#.
+          - Led initial migration of physical servers to Azure using ARM templates.
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - company: EPAM Systems
+        position: GSuite Specialist and GCP Support Specialist
+        location: Mexico City, Mexico
+        start_date: 2018-08-01
+        end_date: 2019-07-01
+        highlights:
+          - Supported Google's top 1% of G Suite enterprise clients.
+          - Led G Suite migrations across the Mexican market.
+          - Contributed Java code to Google's G Suite migration tool using CouchDB and MongoDB.
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+    Education:
+      - institution: TAFE SA
+        location: South Australia, Australia
+        area: Security and Networking
+        studyType: Advanced Diploma
+        start_date: 2013
+        end_date: 2013
 
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - institution: TAFE SA
+        location: South Australia, Australia
+        area: Computer Systems, Electrical and Electronics Engineering
+        studyType: Diploma
+        start_date: 2010
+        end_date: 2012
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Microsoft Certified Solutions Expert (MCSE)
+        date: 2013-09-01
+        issuer: Microsoft
+        icon: fa-solid fa-certificate
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: Microsoft Certified Solutions Associate (MCSA)
+        date: 2012-10-01
+        issuer: Microsoft
+        icon: fa-solid fa-certificate
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Microsoft Technology Associate (MTA)
+        date: 2012-10-01
+        issuer: Microsoft
+        icon: fa-solid fa-certificate
+
+      - name: CCNA Security
+        date: 2013-10-01
+        issuer: Cisco
+        icon: fa-solid fa-certificate
+
+      - name: CCNA Routing and Switching
+        date: 2013-10-01
+        issuer: Cisco
+        icon: fa-solid fa-certificate
+
+      - name: SQL Advanced, Problem Solving Intermediate, Python Basic
+        date: 2026-01-01
+        issuer: HackerRank
+        icon: fa-solid fa-code
+
+      - name: DevSecOps, DevOps Foundations, CI/CD, Azure Management Tools
+        date: 2022-01-01
+        issuer: LinkedIn Learning
+        icon: fa-solid fa-graduation-cap
+
+    Skills:
+      - name: Cloud and Infrastructure
+        level: Expert
+        icon: fa-solid fa-cloud
+        keywords: "Azure, AWS, GCP, Terraform, ARM Templates, Policy-as-Code, Zero Trust, Azure Firewall, NSGs"
+
+      - name: DevOps and CI/CD
+        level: Expert
+        icon: fa-solid fa-gears
+        keywords: "Azure DevOps, Jenkins, TeamCity, Ansible, Chef, Helm, GitOps, Blue-Green Deployment"
+
+      - name: Security and Compliance
+        level: Expert
+        icon: fa-solid fa-shield
+        keywords: "SOC 2, ISO 27001, NIST CSF, CIS Controls, PCI DSS, OWASP Top 10, Penetration Testing, Red Team, SAST/DAST, Kali Linux"
+
+      - name: Containers and Orchestration
+        level: Expert
+        icon: fa-solid fa-cubes
+        keywords: "Kubernetes, AKS, Docker, Container Hardening, Microservices, Helm"
+
+      - name: Observability
+        level: Expert
+        icon: fa-solid fa-chart-line
+        keywords: "Dynatrace, Datadog, PagerDuty, Prometheus, Nagios, Grafana, Azure Monitor, Kusto"
+
+      - name: Programming and Scripting
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python, PowerShell, Bash, SQL, Java, C#, ASP.NET, JavaScript"
+
+    Languages:
+      - name: English
+        summary: Native speaker
+
+      - name: Spanish
+        summary: Working proficiency
+
+      - name: Japanese
+        summary: Elementary
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: PortBuster
+        summary: CLI tool in Python to query Registered Ports for TCP/UDP availability and descriptions. Lightweight network reconnaissance utility.
+        start_date: 2025-03-01
+        end_date: present
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: PowerShell Rot
+        summary: Curated collection of unconventional PowerShell scripts showcasing advanced techniques and creative problem solving in the Windows scripting environment.
+        start_date: 2023-01-01
+        end_date: present
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: SDR Radio Spectrum Scanner
+        summary: Python tool using software-defined radio to scan the spectrum for unexpected activity, automatically documenting findings and sending email alerts.
+        start_date: 2025-01-01
+        end_date: present
+
+    Interests:
+      - name: Community
+        icon: fa-solid fa-users
+        keywords: "Bug Bounty Programs, BSides Mexico, Ham Radio Club of Mexico, Enable the Future, Mentoring junior engineers in DevSecOps"
+
+      - name: Open Source
+        icon: fa-solid fa-code-branch
+        keywords: "SDR Security Tools, PowerShell Automation, Radio Security Research"

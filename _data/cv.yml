@@ -1,10 +1,10 @@
 cv:
   name: Benjamin Saul McCulloch
-  label: Senior DevOps Engineer | Pentester | Security Researcher | Educator
+  label: Senior DevOps Engineer | Pentester | Security Auditor | Educator
   email: benjaminsaulmcculloch@gmail.com
   location: Mexico City, Mexico
   image: ""
-  summary: 15+ years solving complex technology challenges at the intersection of development, operations, and security. Treat security as code, automate everything worth repeating, and measure what matters. Native English speaker with working Spanish and elementary Japanese.
+  summary: I've spent 15+ years solving complex technology challenges at the intersection of development, operations, and security. Starting with on-premises Windows and Linux servers, I've evolved with the industry's shift to cloud infrastructure, which enabled me to fully pursue my passion for security — from architecting solutions for startups to securing high-volume enterprise platforms processing millions of transactions daily. My approach is simple but effective — treat security as code, automate everything worth repeating, and measure what matters. I've designed CI/CD pipelines that embed security from commit to production, implemented Infrastructure as Code practices that eliminate configuration drift, and established threat modelling processes that prevent incidents before they occur. In my free time, I contribute to the open-source security community by maintaining security tools for testing radio using software defined radios, and 3D printing prosthetics for children with the Enable the Future project. I also enjoy participating in bug bounty programs. My journey from TAFE SA to leading global security initiatives was shaped by mentorship, and I'm committed to providing the same support to others by mentoring junior engineers in DevSecOps practices in Mexico City. I'm a native English speaker with working Spanish and elementary Japanese. I'm driven to leave organizations and people better than I found them. Technology is the tool, but human potential is the outcome.
 
   social_networks:
     - network: LinkedIn
@@ -17,215 +17,116 @@ cv:
       - company: UST — Wolters Kluwer (SureTax)
         position: Senior Site Reliability Engineer
         location: Mexico City, Mexico
-        start_date: 2025-09-01
+        start_date: 2025-09
         end_date: present
+        summary: Client — Wolters Kluwer's SureTax, a cloud-based tax calculation engine that enterprise clients depend on daily. Build and maintain secure, automated systems that keep the platform reliable and compliant. Combine SRE principles with DevSecOps practices to ensure SureTax handles millions of tax calculations with consistent performance.
         highlights:
-          - Designed patch management system for 36 legacy Windows Servers using Azure Automation — zero patch-related incidents post-deployment.
-          - Designed CI/CD pipelines for zero-downtime deployments across Azure, AWS, and on-premises with blue-green strategies.
-          - Reduced mean time to recovery by 65% using Datadog and PagerDuty.
-          - Maintained SOC 2 and ISO 27001 compliance through continuous monitoring.
-          - Reduced infrastructure costs by 30% through Kubernetes adoption.
-          - Led containerisation of legacy web applications to AKS.
-          - Authored approximately 50 PowerShell scripts to automate operational tasks.
+          - Designed and implemented a patch management system from scratch for 36 legacy Windows Servers using Azure Automation and Azure DevOps Pipelines with PowerShell. The system automatically collected all pending patches, provisioned a staging environment, and applied patches for engineering and QA review prior to production rollout — eliminating blind patching risk and achieving zero patch-related incidents post-deployment.
+          - Designed CI/CD pipelines enabling secure, zero-downtime deployments across Azure, AWS, and on-premises environments. Embedded automated testing, infrastructure-as-code validation, and security gates. Implemented blue-green deployment strategies with compliance checks.
+          - Managed Azure infrastructure using Terraform, codifying scalable and compliant environments. Leveraged policy-as-code to enforce standards and minimise drift. Designed disaster recovery with automated fail-over and cost optimisations reducing spend by 25%.
+          - Integrated security scanning, code analysis, and container hardening into CI/CD workflows. Maintained SOC 2 and ISO 27001 compliance through continuous monitoring and automated patching. Established security baselines aligned with CIS standards.
+          - Applied SRE principles to improve API reliability and performance. Implemented monitoring using Datadog and PagerDuty. Conducted chaos engineering exercises and reduced mean time to recovery by 65%. Established SLOs and error budgets.
+          - Conducted security assessments, threat modeling, and penetration testing. Partnered with teams to remediate vulnerabilities and strengthen security posture. Implemented vulnerability management with automated scanning.
+          - Worked directly with enterprise customers on support calls, troubleshooting application issues, documenting bugs, and collaborating with development teams to drive resolution.
+          - Performed SQL Server and MySQL database maintenance, repairs, and optimisation to improve platform reliability and performance.
+          - Led the containerisation of legacy web applications, successfully migrating all targeted workloads to a containerised architecture.
+          - Authored approximately 50 PowerShell scripts to automate operational tasks including backup verification, service health checks, and deployment validation.
+          - Championed DevSecOps culture across teams. Mentored engineers on SRE and security practices, and led training on secure coding, incident response, and observability.
+          - Helped drive Kubernetes adoption enabling microservices architecture and automated scaling. Reduced infrastructure costs by 30% through efficient resource utilisation.
 
       - company: UST — Wolters Kluwer (SureTax)
         position: Senior DevOps Engineer
         location: Mexico City, Mexico
-        start_date: 2025-04-01
-        end_date: 2025-09-01
+        start_date: 2025-04
+        end_date: 2025-09
+        summary: Brought in specifically to improve security posture and drive DevSecOps standards adoption across all engineering teams company-wide supporting SureTax, a cloud-based tax calculation engine serving enterprise clients.
         highlights:
-          - Led rollout of DevSecOps standards across all engineering teams company-wide.
-          - Architected CI/CD pipelines embedding SAST, DAST, container scanning, and secret detection.
-          - Authored 100+ Terraform scripts for Azure and AWS infrastructure.
-          - Built cloud cost monitoring dashboards using Kusto and Grafana.
-          - Reduced mean time to remediation by 70% using SIEM tools.
-          - Led adoption of Datadog for enterprise-wide monitoring.
+          - Led the successful rollout of DevSecOps standards across all engineering teams company-wide, establishing consistent security practices from development through to production.
+          - Architected CI/CD pipelines embedding security at every stage. Integrated static and dynamic code analysis, container scanning, secret detection, and dependency checks. Implemented automated security gates blocking vulnerable code from production while maintaining deployment velocity.
+          - Authored over 100 Terraform scripts to provision and manage all Azure and AWS infrastructure, ensuring consistent, compliant, and repeatable environments across all teams.
+          - Built cloud cost monitoring dashboards using Kusto query language and Grafana, providing teams with real-time visibility into their cloud spend and enabling budget accountability.
+          - Wrote approximately 50 PowerShell scripts to automate operational tasks including backup verification, service health checks, and deployment validation.
+          - Shifted security left by integrating automated testing early in development. Conducted security-focused code reviews and worked with developers to remediate vulnerabilities before merge. Established secure coding standards and provided training on OWASP Top 10 and attack vectors.
+          - Managed Azure infrastructure using Terraform with security-as-code principles. Enforced least-privilege access, network segmentation, and encryption through policy-as-code. Implemented automated compliance scanning for SOC 2 and ISO 27001.
+          - Led the adoption and ongoing maintenance of Datadog for enterprise-wide system monitoring across all environments.
+          - Drove the adoption and maintenance of Azure Firewall and Azure API endpoint security. Authored comprehensive documentation defining requirements for teams publishing internet-facing applications, written from scratch with no prior documentation existing.
+          - Monitored security threats continuously using SIEM tools and automated vulnerability scanning. Responded to incidents with defined runbooks and automated remediation, reducing mean time to remediation by 70%.
+          - Conducted threat modeling, penetration testing, and security assessments across SureTax infrastructure. Identified attack surfaces and implemented defense-in-depth strategies. Tracked security metrics and reported improvements to leadership.
+          - Built and maintained APIs using Azure Functions and Azure App Service, ensuring secure, scalable, and reliable API endpoints for enterprise clients.
+          - Championed DevSecOps culture through training and collaboration. Embedded security into daily workflows and established blameless post-mortem processes.
 
       - company: Affila Technology
         position: Cyber Security Specialist
-        location: New York, United States (Remote)
-        start_date: 2025-03-01
+        location: New York (Remote)
+        start_date: 2025-03
         end_date: present
+        summary: Work with a small team helping organisations — primarily non-profits — build resilient security postures that protect critical assets while enabling business growth. Combine deep technical expertise with business acumen to ensure security aligns with organisational objectives.
         highlights:
-          - Lead security audits against NIST CSF, NIST 800-53, CIS Controls, ISO 27001, PCI DSS, and SOC 2.
-          - Serve as security adviser on boards of two non-profit organisations.
-          - Lead red team exercises using Kali Linux with custom CVE cross-referencing automation tool.
-          - Develop expertise in securing AI agents, ML pipelines, and LLM implementations.
-          - Design security architectures across Azure, AWS, and GCP.
+          - Lead client presentations and educational sessions for non-profit volunteers and staff, translating complex cybersecurity concepts into accessible, actionable guidance — empowering organisations with limited technical resources to understand and improve their security posture.
+          - Deliver security audits across NIST CSF, NIST 800-53, CIS Controls, ISO 27001, PCI DSS, and SOC 2 frameworks, ensuring clients achieve all required security benchmarks.
+          - Serve as a security adviser on the boards of two non-profit organisations, providing strategic security guidance and oversight.
+          - Lead and conduct red team exercises using Kali Linux. Developed a custom Bash script that documents all findings, cross-references discovered vulnerabilities against known CVE databases, feeds results into an AI model for verification, and with client consent, attempts to actively exploit confirmed vulnerabilities.
+          - Work directly with leadership and technical teams to assess vulnerabilities, implement defence-in-depth strategies, and establish continuous monitoring across hybrid environments spanning Azure, AWS, GCP, and on-premises.
+          - Develop specialised expertise in securing AI agents, machine learning pipelines, and LLM implementations, helping organisations adopt AI safely using established AI security frameworks.
+          - Design and implement comprehensive security architectures spanning Azure, AWS, and GCP.
+          - Conduct security assessments and gap analysis across manufacturing, banking, legal services, and enterprise sectors — delivering actionable roadmaps balancing security with business objectives.
+          - Perform threat hunting, security monitoring, incident response, and proactive defence implementation across multi-cloud and hybrid environments.
 
       - company: Avertium
         position: Architecture and Optimization
         location: Mexico City, Mexico
-        start_date: 2024-07-01
-        end_date: 2025-04-01
+        start_date: 2024-07
+        end_date: 2025-04
+        summary: Delivered security audit and advisory services to 14 large-scale enterprise clients across manufacturing, banking, legal services, and other sectors, helping organisations achieve compliance, strengthen defences, and remediate vulnerabilities across cloud and on-premises environments.
         highlights:
-          - Delivered security audits to 14 large-scale enterprise clients across multiple industries.
-          - Built Python and AI-powered reporting tool transforming audit findings into professional client reports.
-          - Secured Avertium's first Mexican client and volunteered at BSides Mexico.
-          - Implemented Microsoft Defender for Endpoint, Azure AD MFA, Conditional Access, and RBAC.
+          - Conducted comprehensive security audits against NIST CSF, NIST 800-53, CIS Controls, ISO 27001, PCI DSS, and SOC 2 frameworks for enterprise clients across multiple industries.
+          - Developed a Python and AI-powered reporting tool that transformed raw audit findings from Excel into professionally formatted client-ready reports and risk registers — streamlining delivery and improving client communication.
+          - Played a key supporting role in securing Avertium's first Mexican client, helping build the relationship and establish trust with the local market.
+          - Volunteered and assisted in organising the Avertium presence at BSides Mexico, contributing to the local security community.
+          - Collaborated closely with the red team to improve existing offensive security tooling, enhancing the effectiveness of penetration testing engagements.
+          - Data Protection and Compliance — safeguarded sensitive data through Microsoft Information Protection (MIP), Data Loss Prevention (DLP) policies, and robust encryption strategies.
+          - Endpoint Security and Device Protection — integrated Microsoft Defender for Endpoint across hybrid and cloud environments. Enforced EDR strategies, hardened device configurations, and implemented real-time threat mitigation to prevent malware, ransomware, and insider threats.
+          - Identity and Access Management — deployed and managed Azure Active Directory with MFA, enforced Conditional Access policies, and leveraged RBAC for least-privilege access across cloud and hybrid environments.
+          - Microsoft 365 Security — implemented robust security baselines, configured Advanced Threat Protection, monitored audit logs for anomalies, and ensured compliance with CIS and Essential 8 frameworks.
+          - Network Security and Cloud Protection — designed and implemented NSGs, firewalls, and VPN configurations. Enhanced security through Zero Trust Network Architecture, micro-segmentation, and adaptive security policies for hybrid and multi-cloud environments.
 
       - company: UST — AvidXchange
         position: Senior Cloud Architecture and DevOps | Kubernetes Administrator | SOC Auditor
         location: Mexico City, Mexico
-        start_date: 2021-04-01
-        end_date: 2024-06-01
+        start_date: 2021-04
+        end_date: 2024-06
+        summary: Progressed through three specialist teams over three years — beginning on the monitoring team, transitioning to the Next Gen infrastructure team, and finally joining the PAGE security team.
         highlights:
-          - Monitoring Team — migrated all teams to Dynatrace across 400 servers, delivering 98% reduction in outages.
-          - Next Gen Team — authored Terraform IaC across Azure, AWS, and on-premises with Grafana dashboards.
-          - PAGE Team — led containerisation initiative migrating legacy apps to AKS with Helm charts and pipelines.
+          - Monitoring Team — wrote and maintained Azure Logic Apps to automate monitoring workflows and alerting. Led the migration of all teams across the enterprise from disparate monitoring solutions to a unified Dynatrace standard. Established enterprise-wide monitoring coverage across approximately 400 Windows and Linux servers spanning on-premises, Azure, and AWS. Delivered a 98% reduction in outages through proactive monitoring, alerting, and incident response improvements.
+          - Next Gen Team — authored Terraform scripts to manage infrastructure-as-code across Azure, AWS, and on-premises, enabling teams to deploy consistent, repeatable infrastructure. Built Grafana dashboards using Kusto queries providing real-time visibility into deployed IaC and cloud costs against budgets.
+          - PAGE Team — established and enforced security standards across the enterprise. Led the containerisation initiative, migrating most legacy applications to AKS. Contributed Terraform for AKS clusters, authored Helm charts, wrote deployment pipelines, and ensured all containerised workloads were monitored correctly.
+          - Security and Compliance — ensured adherence to best security practices and SOC compliance. Implemented access management, encryption, and auditing controls to protect sensitive data.
+          - Infrastructure as Code and Cloud Automation — developed and maintained Terraform modules for provisioning and managing Azure infrastructure. Utilised Ansible and Chef for configuration management, ensuring consistent server configurations and reducing configuration drift.
 
       - company: WSAudiology
         position: DevOps Engineer
         location: United States (Remote)
-        start_date: 2021-03-01
-        end_date: 2021-04-01
+        start_date: 2021-03
+        end_date: 2021-04
+        summary: Played a critical role in the deployment and management of a web application and database system running on Red Hat Linux servers.
         highlights:
-          - Provisioned Red Hat Linux servers for web application and database workloads.
-          - Built automated deployment pipelines using Jenkins and Ansible.
-          - Implemented monitoring and alerting using Nagios and Prometheus.
+          - Provisioned and configured Red Hat Linux servers to host web application and database workloads.
+          - Designed and implemented automated deployment pipelines using Jenkins and Ansible, reducing manual effort and ensuring consistent deployments.
+          - Wrote Bash scripts to retrieve compiled software builds and automate the upload and deployment process to target servers.
+          - Configured and optimised server settings, network configurations, and security protocols aligned with industry best practices.
+          - Implemented monitoring and alerting using Nagios and Prometheus to track system health and performance metrics.
+          - Managed the Red Hat Linux-based database system including setup, performance tuning, backups, and disaster recovery planning.
+          - Implemented security best practices by enforcing access controls, data encryption, and compliance policies.
 
-      - company: iTexico
+      - company: iTexico — BestPass and GetGiddy
         position: Software Specialist and DevOps Engineer
         location: Mexico City, Mexico
-        start_date: 2020-09-01
-        end_date: 2021-03-01
+        start_date: 2020-09
+        end_date: 2021-03
         highlights:
-          - Set up TeamCity CI/CD from scratch with full SAST, DAST, dependency, and container scanning suite.
-          - Built automated data pipeline integrating Salesforce into Azure Logic Apps for GetGiddy.
-
-      - company: Muttual
-        position: DevOps Specialist
-        location: Mexico City, Mexico
-        start_date: 2019-07-01
-        end_date: 2020-09-01
-        highlights:
-          - Supported Stemmons platform deployment and maintenance for 10+ enterprise clients.
-          - Performed application development and bug fixes in ASP.NET and C#.
-          - Led initial migration of physical servers to Azure using ARM templates.
-
-      - company: EPAM Systems
-        position: GSuite Specialist and GCP Support Specialist
-        location: Mexico City, Mexico
-        start_date: 2018-08-01
-        end_date: 2019-07-01
-        highlights:
-          - Supported Google's top 1% of G Suite enterprise clients.
-          - Led G Suite migrations across the Mexican market.
-          - Contributed Java code to Google's G Suite migration tool using CouchDB and MongoDB.
-
-    Education:
-      - institution: TAFE SA
-        location: South Australia, Australia
-        area: Security and Networking
-        studyType: Advanced Diploma
-        start_date: 2013
-        end_date: 2013
-
-      - institution: TAFE SA
-        location: South Australia, Australia
-        area: Computer Systems, Electrical and Electronics Engineering
-        studyType: Diploma
-        start_date: 2010
-        end_date: 2012
-
-    Certificates:
-      - name: Microsoft Certified Solutions Expert (MCSE)
-        date: 2013-09-01
-        issuer: Microsoft
-        icon: fa-solid fa-certificate
-
-      - name: Microsoft Certified Solutions Associate (MCSA)
-        date: 2012-10-01
-        issuer: Microsoft
-        icon: fa-solid fa-certificate
-
-      - name: Microsoft Technology Associate (MTA)
-        date: 2012-10-01
-        issuer: Microsoft
-        icon: fa-solid fa-certificate
-
-      - name: CCNA Security
-        date: 2013-10-01
-        issuer: Cisco
-        icon: fa-solid fa-certificate
-
-      - name: CCNA Routing and Switching
-        date: 2013-10-01
-        issuer: Cisco
-        icon: fa-solid fa-certificate
-
-      - name: SQL Advanced, Problem Solving Intermediate, Python Basic
-        date: 2026-01-01
-        issuer: HackerRank
-        icon: fa-solid fa-code
-
-      - name: DevSecOps, DevOps Foundations, CI/CD, Azure Management Tools
-        date: 2022-01-01
-        issuer: LinkedIn Learning
-        icon: fa-solid fa-graduation-cap
-
-    Skills:
-      - name: Cloud and Infrastructure
-        level: Expert
-        icon: fa-solid fa-cloud
-        keywords: "Azure, AWS, GCP, Terraform, ARM Templates, Policy-as-Code, Zero Trust, Azure Firewall, NSGs"
-
-      - name: DevOps and CI/CD
-        level: Expert
-        icon: fa-solid fa-gears
-        keywords: "Azure DevOps, Jenkins, TeamCity, Ansible, Chef, Helm, GitOps, Blue-Green Deployment"
-
-      - name: Security and Compliance
-        level: Expert
-        icon: fa-solid fa-shield
-        keywords: "SOC 2, ISO 27001, NIST CSF, CIS Controls, PCI DSS, OWASP Top 10, Penetration Testing, Red Team, SAST/DAST, Kali Linux"
-
-      - name: Containers and Orchestration
-        level: Expert
-        icon: fa-solid fa-cubes
-        keywords: "Kubernetes, AKS, Docker, Container Hardening, Microservices, Helm"
-
-      - name: Observability
-        level: Expert
-        icon: fa-solid fa-chart-line
-        keywords: "Dynatrace, Datadog, PagerDuty, Prometheus, Nagios, Grafana, Azure Monitor, Kusto"
-
-      - name: Programming and Scripting
-        level: Advanced
-        icon: fa-solid fa-code
-        keywords: "Python, PowerShell, Bash, SQL, Java, C#, ASP.NET, JavaScript"
-
-    Languages:
-      - name: English
-        summary: Native speaker
-
-      - name: Spanish
-        summary: Working proficiency
-
-      - name: Japanese
-        summary: Elementary
-
-    Projects:
-      - name: PortBuster
-        summary: CLI tool in Python to query Registered Ports for TCP/UDP availability and descriptions. Lightweight network reconnaissance utility.
-        start_date: 2025-03-01
-        end_date: present
-
-      - name: PowerShell Rot
-        summary: Curated collection of unconventional PowerShell scripts showcasing advanced techniques and creative problem solving in the Windows scripting environment.
-        start_date: 2023-01-01
-        end_date: present
-
-      - name: SDR Radio Spectrum Scanner
-        summary: Python tool using software-defined radio to scan the spectrum for unexpected activity, automatically documenting findings and sending email alerts.
-        start_date: 2025-01-01
-        end_date: present
-
-    Interests:
-      - name: Community
-        icon: fa-solid fa-users
-        keywords: "Bug Bounty Programs, BSides Mexico, Ham Radio Club of Mexico, Enable the Future, Mentoring junior engineers in DevSecOps"
-
-      - name: Open Source
-        icon: fa-solid fa-code-branch
-        keywords: "SDR Security Tools, PowerShell Automation, Radio Security Research"
+          - Set up TeamCity as the CI/CD platform from scratch and designed pipelines to automate web application deployments to IIS, ensuring rapid and reliable software releases.
+          - Integrated a full security scanning suite into CI/CD pipelines including SAST, DAST, dependency scanning, and container scanning — embedding security checks at every stage.
+          - Implemented QA automation within the pipeline to validate deployments before promotion to production.
+          - Wrote PowerShell scripts to automate backup processes and verify successful deployments.
+          - Managed configuration management, version control, and performance optimisation of IIS web application deployments.
+          - Designed an

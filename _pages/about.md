@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Educator | Pentester | Security Researcher | Senior DevOps Engineer
 

@@ -1,451 +1,156 @@
-cv:
-  name: Benjamin Saul McCulloch
-  label: Senior DevOps Engineer | Pentester | Security Auditor | Educator
-  email: benjaminsaulmcculloch@gmail.com
-  location: Mexico City, Mexico
-  image: ""
-  summary: I've spent 15+ years solving complex technology challenges at the intersection of development, operations, and security. Starting with on-premises Windows and Linux servers, I've evolved with the industry's shift to cloud infrastructure, which enabled me to fully pursue my passion for security — from architecting solutions for startups to securing high-volume enterprise platforms processing millions of transactions daily. My approach is simple but effective — treat security as code, automate everything worth repeating, and measure what matters. I've designed CI/CD pipelines that embed security from commit to production, implemented Infrastructure as Code practices that eliminate configuration drift, and established threat modelling processes that prevent incidents before they occur. In my free time, I contribute to the open-source security community by maintaining security tools for testing radio using software defined radios, and 3D printing prosthetics for children with the Enable the Future project. I also enjoy participating in bug bounty programs. My journey from TAFE SA to leading global security initiatives was shaped by mentorship, and I'm committed to providing the same support to others by mentoring junior engineers in DevSecOps practices in Mexico City. I'm a native English speaker with working Spanish and elementary Japanese. I'm driven to leave organizations and people better than I found them. Technology is the tool, but human potential is the outcome.
-
-  social_networks:
-    - network: LinkedIn
-      username: benjaminsaul-mcculloch
-    - network: GitHub
-      username: Benjamin-Saul-1989
-
-  sections:
-    Experience:
-      - company: UST — Wolters Kluwer (SureTax)
-        position: Senior Site Reliability Engineer
-        location: Mexico City, Mexico
-        start_date: 2025-09
-        end_date: present
-        highlights:
-          - "Client: Wolters Kluwer's SureTax, a cloud-based tax calculation engine that enterprise clients depend on daily. Build and maintain secure, automated systems combining SRE principles with DevSecOps practices to ensure SureTax handles millions of tax calculations with consistent performance."
-          - Designed and implemented a patch management system from scratch for 36 legacy Windows Servers using Azure Automation and Azure DevOps Pipelines with PowerShell. The system automatically collected all pending patches, provisioned a staging environment, and applied patches for engineering and QA review prior to production rollout — eliminating blind patching risk and achieving zero patch-related incidents post-deployment.
-          - Designed CI/CD pipelines enabling secure, zero-downtime deployments across Azure, AWS, and on-premises environments. Embedded automated testing, infrastructure-as-code validation, and security gates. Implemented blue-green deployment strategies with compliance checks.
-          - Managed Azure infrastructure using Terraform, codifying scalable and compliant environments. Leveraged policy-as-code to enforce standards and minimise drift. Designed disaster recovery with automated fail-over and cost optimisations reducing spend by 25%.
-          - Integrated security scanning, code analysis, and container hardening into CI/CD workflows. Maintained SOC 2 and ISO 27001 compliance through continuous monitoring and automated patching. Established security baselines aligned with CIS standards.
-          - Applied SRE principles to improve API reliability and performance. Implemented monitoring using Datadog and PagerDuty. Conducted chaos engineering exercises and reduced mean time to recovery by 65%. Established SLOs and error budgets.
-          - Conducted security assessments, threat modeling, and penetration testing. Partnered with teams to remediate vulnerabilities and strengthen security posture. Implemented vulnerability management with automated scanning.
-          - Worked directly with enterprise customers on support calls, troubleshooting application issues, documenting bugs, and collaborating with development teams to drive resolution.
-          - Performed SQL Server and MySQL database maintenance, repairs, and optimisation to improve platform reliability and performance.
-          - Led the containerisation of legacy web applications, successfully migrating all targeted workloads to a containerised architecture.
-          - Authored approximately 50 PowerShell scripts to automate operational tasks including backup verification, service health checks, and deployment validation.
-          - Championed DevSecOps culture across teams. Mentored engineers on SRE and security practices, and led training on secure coding, incident response, and observability.
-          - Helped drive Kubernetes adoption enabling microservices architecture and automated scaling. Reduced infrastructure costs by 30% through efficient resource utilisation.
-
-      - company: UST — Wolters Kluwer (SureTax)
-        position: Senior DevOps Engineer
-        location: Mexico City, Mexico
-        start_date: 2025-04
-        end_date: 2025-09
-        highlights:
-          - "Brought in specifically to improve security posture and drive DevSecOps standards adoption across all engineering teams company-wide supporting SureTax, a cloud-based tax calculation engine serving enterprise clients."
-          - Led the successful rollout of DevSecOps standards across all engineering teams company-wide, establishing consistent security practices from development through to production.
-          - Architected CI/CD pipelines embedding security at every stage. Integrated static and dynamic code analysis, container scanning, secret detection, and dependency checks. Implemented automated security gates blocking vulnerable code from production while maintaining deployment velocity.
-          - Authored over 100 Terraform scripts to provision and manage all Azure and AWS infrastructure, ensuring consistent, compliant, and repeatable environments across all teams.
-          - Built cloud cost monitoring dashboards using Kusto query language and Grafana, providing teams with real-time visibility into their cloud spend and enabling budget accountability.
-          - Wrote approximately 50 PowerShell scripts to automate operational tasks including backup verification, service health checks, and deployment validation.
-          - Shifted security left by integrating automated testing early in development. Conducted security-focused code reviews and worked with developers to remediate vulnerabilities before merge. Established secure coding standards and provided training on OWASP Top 10 and attack vectors.
-          - Managed Azure infrastructure using Terraform with security-as-code principles. Enforced least-privilege access, network segmentation, and encryption through policy-as-code. Implemented automated compliance scanning for SOC 2 and ISO 27001.
-          - Led the adoption and ongoing maintenance of Datadog for enterprise-wide system monitoring across all environments.
-          - Drove the adoption and maintenance of Azure Firewall and Azure API endpoint security. Authored comprehensive documentation defining requirements for teams publishing internet-facing applications, written from scratch with no prior documentation existing.
-          - Monitored security threats continuously using SIEM tools and automated vulnerability scanning. Responded to incidents with defined runbooks and automated remediation, reducing mean time to remediation by 70%.
-          - Conducted threat modeling, penetration testing, and security assessments across SureTax infrastructure. Identified attack surfaces and implemented defense-in-depth strategies. Tracked security metrics and reported improvements to leadership.
-          - Built and maintained APIs using Azure Functions and Azure App Service, ensuring secure, scalable, and reliable API endpoints for enterprise clients.
-          - Championed DevSecOps culture through training and collaboration. Embedded security into daily workflows and established blameless post-mortem processes.
-
-      - company: Affila Technology
-        position: Cyber Security Specialist
-        location: New York (Remote)
-        start_date: 2025-03
-        end_date: present
-        highlights:
-          - "Work with a small team helping organisations — primarily non-profits — build resilient security postures that protect critical assets while enabling business growth."
-          - Lead client presentations and educational sessions for non-profit volunteers and staff, translating complex cybersecurity concepts into accessible, actionable guidance — empowering organisations with limited technical resources to understand and improve their security posture.
-          - Deliver security audits across NIST CSF, NIST 800-53, CIS Controls, ISO 27001, PCI DSS, and SOC 2 frameworks, ensuring clients achieve all required security benchmarks.
-          - Serve as a security adviser on the boards of two non-profit organisations, providing strategic security guidance and oversight.
-          - Lead and conduct red team exercises using Kali Linux. Developed a custom Bash script that documents all findings, cross-references discovered vulnerabilities against known CVE databases, feeds results into an AI model for verification, and with client consent, attempts to actively exploit confirmed vulnerabilities.
-          - Work directly with leadership and technical teams to assess vulnerabilities, implement defence-in-depth strategies, and establish continuous monitoring across hybrid environments spanning Azure, AWS, GCP, and on-premises.
-          - Develop specialised expertise in securing AI agents, machine learning pipelines, and LLM implementations, helping organisations adopt AI safely using established AI security frameworks.
-          - Design and implement comprehensive security architectures spanning Azure, AWS, and GCP.
-          - Conduct security assessments and gap analysis across manufacturing, banking, legal services, and enterprise sectors — delivering actionable roadmaps balancing security with business objectives.
-          - Perform threat hunting, security monitoring, incident response, and proactive defence implementation across multi-cloud and hybrid environments.
-
-      - company: Avertium
-        position: Architecture and Optimization
-        location: Mexico City, Mexico
-        start_date: 2024-07
-        end_date: 2025-04
-        highlights:
-          - "Delivered security audit and advisory services to 14 large-scale enterprise clients across manufacturing, banking, legal services, and other sectors, helping organisations achieve compliance, strengthen defences, and remediate vulnerabilities across cloud and on-premises environments."
-          - Conducted comprehensive security audits against NIST CSF, NIST 800-53, CIS Controls, ISO 27001, PCI DSS, and SOC 2 frameworks for enterprise clients across multiple industries.
-          - Developed a Python and AI-powered reporting tool that transformed raw audit findings from Excel into professionally formatted client-ready reports and risk registers — streamlining delivery and improving client communication.
-          - Played a key supporting role in securing Avertium's first Mexican client, helping build the relationship and establish trust with the local market.
-          - Volunteered and assisted in organising the Avertium presence at BSides Mexico, contributing to the local security community.
-          - Collaborated closely with the red team to improve existing offensive security tooling, enhancing the effectiveness of penetration testing engagements.
-          - Data Protection and Compliance — safeguarded sensitive data through Microsoft Information Protection (MIP), Data Loss Prevention (DLP) policies, and robust encryption strategies.
-          - Endpoint Security and Device Protection — integrated Microsoft Defender for Endpoint across hybrid and cloud environments. Enforced EDR strategies, hardened device configurations, and implemented real-time threat mitigation to prevent malware, ransomware, and insider threats.
-          - Identity and Access Management — deployed and managed Azure Active Directory with MFA, enforced Conditional Access policies, and leveraged RBAC for least-privilege access across cloud and hybrid environments.
-          - Microsoft 365 Security — implemented robust security baselines, configured Advanced Threat Protection, monitored audit logs for anomalies, and ensured compliance with CIS and Essential 8 frameworks.
-          - Network Security and Cloud Protection — designed and implemented NSGs, firewalls, and VPN configurations. Enhanced security through Zero Trust Network Architecture, micro-segmentation, and adaptive security policies for hybrid and multi-cloud environments.
-
-      - company: UST — AvidXchange
-        position: Senior Cloud Architecture and DevOps | Kubernetes Administrator | SOC Auditor
-        location: Mexico City, Mexico
-        start_date: 2021-04
-        end_date: 2024-06
-        highlights:
-          - "Client: AvidXChange. Progressed through three specialist teams over three years — beginning on the monitoring team, transitioning to the Next Gen infrastructure team, and finally joining the PAGE security team."
-          - Monitoring Team — wrote and maintained Azure Logic Apps to automate monitoring workflows and alerting. Led the migration of all teams across the enterprise from disparate monitoring solutions to a unified Dynatrace standard. Established enterprise-wide monitoring coverage across approximately 400 Windows and Linux servers spanning on-premises, Azure, and AWS. Delivered a 98% reduction in outages through proactive monitoring, alerting, and incident response improvements.
-          - Next Gen Team — authored Terraform scripts to manage infrastructure-as-code across Azure, AWS, and on-premises, enabling teams to deploy consistent, repeatable infrastructure. Built Grafana dashboards using Kusto queries providing real-time visibility into deployed IaC and cloud costs against budgets.
-          - PAGE Team — established and enforced security standards across the enterprise. Led the containerisation initiative, migrating most legacy applications to AKS. Contributed Terraform for AKS clusters, authored Helm charts, wrote deployment pipelines, and ensured all containerised workloads were monitored correctly.
-          - Security and Compliance — ensured adherence to best security practices and SOC compliance. Implemented access management, encryption, and auditing controls to protect sensitive data.
-          - Infrastructure as Code and Cloud Automation — developed and maintained Terraform modules for provisioning and managing Azure infrastructure. Utilised Ansible and Chef for configuration management, ensuring consistent server configurations and reducing configuration drift.
-
-      - company: WSAudiology
-        position: DevOps Engineer
-        location: United States (Remote)
-        start_date: 2021-03
-        end_date: 2021-04
-        highlights:
-          - "Played a critical role in the deployment and management of a web application and database system running on Red Hat Linux servers."
-          - Provisioned and configured Red Hat Linux servers to host web application and database workloads.
-          - Designed and implemented automated deployment pipelines using Jenkins and Ansible, reducing manual effort and ensuring consistent deployments.
-          - Wrote Bash scripts to retrieve compiled software builds and automate the upload and deployment process to target servers.
-          - Configured and optimised server settings, network configurations, and security protocols aligned with industry best practices.
-          - Implemented monitoring and alerting using Nagios and Prometheus to track system health and performance metrics.
-          - Managed the Red Hat Linux-based database system including setup, performance tuning, backups, and disaster recovery planning.
-          - Implemented security best practices by enforcing access controls, data encryption, and compliance policies.
-
-      - company: iTexico — BestPass and GetGiddy
-        position: Software Specialist and DevOps Engineer
-        location: Mexico City, Mexico
-        start_date: 2020-09
-        end_date: 2021-03
-        highlights:
-          - "Client BestPass — brought in to establish CI/CD capabilities and improve deployment reliability for a web application hosted on IIS."
-          - Set up TeamCity as the CI/CD platform from scratch and designed pipelines to automate web application deployments to IIS, ensuring rapid and reliable software releases.
-          - Integrated a full security scanning suite into CI/CD pipelines including SAST, DAST, dependency scanning, and container scanning — embedding security checks at every stage.
-          - Implemented QA automation within the pipeline to validate deployments before promotion to production.
-          - Wrote PowerShell scripts to automate backup processes and verify successful deployments.
-          - Managed configuration management, version control, and performance optimisation of IIS web application deployments.
-          - "Client GetGiddy — played a crucial role in optimising systems and automating workflows to drive sales and business growth."
-          - Designed and built an automated data pipeline integrating Salesforce and multiple data sources into Azure Logic Apps to analyse supply levels and survey data, enabling proactive stock management.
-          - Designed, developed, and maintained Logic Apps within Azure to automate business processes and improve workflow efficiency.
-          - Reviewed and analysed log analytics data to identify trends, anomalies, and opportunities for optimisation.
-
-      - company: Muttual — Boxer Property and Stemmons Enterprise
-        position: DevOps Specialist
-        location: Mexico City, Mexico
-        start_date: 2019-07
-        end_date: 2020-09
-        highlights:
-          - "Client: Boxer Property and Stemmons Enterprise. Supported the deployment, maintenance, and growth of the Stemmons business management software platform, serving more than 10 enterprise clients."
-          - Supported deployment of the Stemmons application to new clients and provided ongoing application support to more than 10 enterprise clients, resolving software issues and implementing performance improvements.
-          - Performed application development and bug fixes directly in the codebase using ASP.NET and C#, contributing to feature delivery and platform stability.
-          - Administered and maintained Microsoft Exchange Server, ensuring reliable email services across the organisation.
-          - Managed Windows Server environments ensuring peak performance through configuration optimisation, health monitoring, and routine maintenance.
-          - Authored automation scripts for deployments, database maintenance, backups, and log rotation.
-          - Managed SQL database troubleshooting, performance tuning, and data integrity across client environments.
-          - Led the initial phase of migrating physical on-premises servers to Microsoft Azure — wrote ARM templates to provision virtual machines and configured Azure Alerts for each migrated machine from day one.
-          - Oversaw the deployment process for new application releases, ensuring minimal downtime and smooth version transitions for clients.
-
-      - company: EPAM Systems
-        position: GSuite Specialist and GCP Support Specialist
-        location: Mexico City, Mexico
-        start_date: 2018-08
-        end_date: 2019-07
-        highlights:
-          - "Partnered directly with Google to support their top 1% of G Suite enterprise clients, providing technical expertise and guidance to Google's most strategic accounts."
-          - Led a small team responsible for G Suite migrations across the Mexican market, coordinating client migrations and ensuring smooth transitions with minimal disruption.
-          - Contributed Java code to Google's G Suite migration tool using CouchDB and MongoDB as backend data stores to manage large-scale file and data migrations.
-          - Acted as a trusted technical adviser to Google's top-tier enterprise clients, offering tailored solutions, troubleshooting complex issues, and providing best practice guidance.
-          - Collaborated with cross-functional teams to ensure timely and effective resolution of client technical issues.
-          - Played a key role in the successful rollout of new G Suite features and updates, ensuring smooth transitions and minimal disruption for enterprise users.
-          - Shared client insights and feedback directly with Google's product and support teams, contributing to product enhancements.
-          - Swiftly resolved complex technical challenges, minimising disruptions to critical enterprise workflows.
-
-    Education:
-      - institution: TAFE SA
-        location: South Australia, Australia
-        area: Security and Networking — Computer and Information Systems Security
-        studyType: Advanced Diploma
-        start_date: 2013
-        end_date: 2013
-
-      - institution: TAFE SA
-        location: South Australia, Australia
-        area: Computer Systems, Electrical and Electronics Engineering
-        studyType: Diploma
-        start_date: 2010
-        end_date: 2012
-
-    Certificates:
-      - name: Microsoft Certified Solutions Expert (MCSE)
-        date: 2013-09
-        issuer: Microsoft
-        icon: fa-solid fa-certificate
-
-      - name: Microsoft Certified Solutions Associate (MCSA)
-        date: 2012-10
-        issuer: Microsoft
-        icon: fa-solid fa-certificate
-
-      - name: Microsoft Technology Associate (MTA)
-        date: 2012-10
-        issuer: Microsoft
-        icon: fa-solid fa-certificate
-
-      - name: CCNA Security
-        date: 2013-10
-        issuer: Cisco
-        icon: fa-solid fa-certificate
-
-      - name: CCNA Routing and Switching
-        date: 2013-10
-        issuer: Cisco
-        icon: fa-solid fa-certificate
-
-      - name: SQL Advanced, Problem Solving Intermediate, Python Basic
-        date: 2026-01
-        issuer: HackerRank
-        icon: fa-solid fa-code
-
-      - name: DevSecOps Building a Secure Continuous Delivery Pipeline
-        date: 2022-01
-        issuer: LinkedIn Learning
-        icon: fa-solid fa-graduation-cap
-
-      - name: DevOps Foundations DevSecOps
-        date: 2022-01
-        issuer: LinkedIn Learning
-        icon: fa-solid fa-graduation-cap
-
-      - name: DevOps Foundations Continuous Delivery and Continuous Integration
-        date: 2022-01
-        issuer: LinkedIn Learning
-        icon: fa-solid fa-graduation-cap
-
-      - name: Programming Foundations Fundamentals
-        date: 2022-01
-        issuer: LinkedIn Learning
-        icon: fa-solid fa-graduation-cap
-
-      - name: Project Management Foundations
-        date: 2022-01
-        issuer: LinkedIn Learning
-        icon: fa-solid fa-graduation-cap
-
-      - name: Learning Azure Management Tools
-        date: 2022-01
-        issuer: LinkedIn Learning
-        icon: fa-solid fa-graduation-cap
-
-      - name: Foundations of Diversity, Equity, Inclusion, and Belonging
-        date: 2024-06
-        issuer: LinkedIn Learning
-        icon: fa-solid fa-graduation-cap
-
-      - name: Unconscious Bias
-        date: 2024-05
-        issuer: LinkedIn Learning
-        icon: fa-solid fa-graduation-cap
-
-    Skills:
-      - name: Cloud and Infrastructure
-        level: Expert
-        icon: fa-solid fa-cloud
-        keywords: "Azure, AWS, GCP, Terraform, ARM Templates, Policy-as-Code, Azure Firewall, Azure API Endpoint Security, Azure Functions, Azure App Service, NSGs, VPN Configuration, Zero Trust Network Architecture, Micro-segmentation"
-
-      - name: DevOps and CI/CD
-        level: Expert
-        icon: fa-solid fa-gears
-        keywords: "CI/CD Pipeline Design, Azure DevOps, Jenkins, TeamCity, Ansible, Chef, Blue-Green Deployment, IaC Validation, Azure Logic Apps, Helm Charts, GitOps, Azure Automation"
-
-      - name: Containers and Orchestration
-        level: Expert
-        icon: fa-solid fa-cubes
-        keywords: "Kubernetes, AKS, Docker, Container Hardening, Microservices Architecture, Automated Scaling, Resource Optimisation"
-
-      - name: Security and Compliance
-        level: Expert
-        icon: fa-solid fa-shield
-        keywords: "SOC 2 Type I and II, ISO 27001, NIST CSF, NIST 800-53, CIS Controls, PCI DSS, Essential 8, OWASP Top 10, Threat Modelling, Penetration Testing, Red Team Exercises, Vulnerability Assessment, Active Exploitation, Defence-in-Depth, SAST/DAST, Secret Detection, Dependency Scanning, Bug Bounty Programs, AI/LLM Security, SDR/Radio Security, Kali Linux"
-
-      - name: Identity and Endpoint
-        level: Expert
-        icon: fa-solid fa-lock
-        keywords: "Azure AD / Entra ID, MFA, Conditional Access, RBAC, Microsoft Defender for Endpoint, EDR, Microsoft Information Protection, Data Loss Prevention, Microsoft 365 Advanced Threat Protection"
-
-      - name: SRE and Observability
-        level: Expert
-        icon: fa-solid fa-chart-line
-        keywords: "SLOs, Error Budgets, Chaos Engineering, Incident Response, Blameless Post-Mortems, Runbook Automation, Dynatrace, Datadog, PagerDuty, Prometheus, Nagios, Grafana, Kusto Query Language, Azure Monitor, MTTR"
-
-      - name: Programming and Scripting
-        level: Advanced
-        icon: fa-solid fa-code
-        keywords: "Python, PowerShell, Bash, SQL Advanced, Java, C#, ASP.NET, JavaScript, Azure Logic Apps"
-
-      - name: Databases and Operating Systems
-        level: Advanced
-        icon: fa-solid fa-database
-        keywords: "SQL Server, MySQL, CouchDB, MongoDB, Red Hat Linux, Linux, Windows Server, Microsoft Exchange Server, IIS, Database Administration, Performance Tuning, Disaster Recovery Planning"
-
-      - name: GCP and Google Workspace
-        level: Advanced
-        icon: fa-brands fa-google
-        keywords: "Google Cloud Platform, G Suite, Google Workspace, Gmail, Google Drive, G Suite Migration Tooling, Log Analytics"
-
-      - name: Soft Skills and Leadership
-        level: Expert
-        icon: fa-solid fa-people-group
-        keywords: "DevSecOps Culture Champion, Team Mentoring, Secure Coding Training, Cross-functional Collaboration, Executive Reporting, Security Advisory Board Level, BSides Mexico, International Team Leadership, Open-Source Contribution"
-
-    Languages:
-      - name: English
-        summary: Native speaker
-
-      - name: Spanish
-        summary: Working proficiency
-
-      - name: Japanese
-        summary: Elementary
-
-    Projects:
-      - name: PortBuster
-        summary: A command-line tool written in Python that allows users to query Registered Ports (1024-49151) to retrieve TCP/UDP availability and descriptions. Built as a lightweight network reconnaissance and port analysis utility.
-        start_date: 2025-03
-        end_date: present
-        highlights:
-          - Python, Networking
-
-      - name: PowerShell Rot
-        summary: A curated collection of unconventional PowerShell scripts that achieve results through non-obvious means — a personal showcase of advanced PowerShell techniques, creative problem solving, and deep knowledge of the Windows scripting environment.
-        start_date: 2023-01
-        end_date: present
-        highlights:
-          - PowerShell, DevOps, Windows Automation
-          - github.com/Benjamin-Saul-1989/PowerShell-Rot
-
-      - name: SDR Radio Spectrum Scanner
-        summary: A Python tool that uses a software-defined radio to continuously scan the radio spectrum for unexpected radio chatter. When activity is detected on a frequency that should be silent, the tool automatically documents the frequency, records a sample as an MP3, and sends an email alert for review.
-        start_date: 2025-01
-        end_date: present
-        highlights:
-          - Python, SDR, RF Analysis, Signal Intelligence, Automation
-
-    References:
-      - name: Esteban Fernandez Cuevas, UST Delivery Manager (direct manager)
-        icon: fa-solid fa-thumbtack
-        reference: He demonstrated a highly collaborative and solution oriented mindset. He was always proactive and involved when challenges arose, communicating clearly while keeping everyone aligned. His ability to handle ambiguity with a professional mindset makes him a strong candidate for any organization looking for solution, progress oriented staff needing to be upskilled fast in hard to grasp technologies.
-
-      - name: Kevin Roe, Architecture and Optimization Consultant, Avertium
-        icon: fa-solid fa-thumbtack
-        reference: Benjamin consistently demonstrated a strong aptitude for identifying and mitigating security risks. His keen analytical skills, coupled with a proactive approach to problem-solving, allowed our team to effectively monitor systems, assess vulnerabilities, and implement strict security measures. Benjamin's attention to detail and ability to stay calm under pressure were invaluable in maintaining the integrity of our operations. Ben's dedication to staying ahead of emerging threats and his commitment to excellence make him an outstanding candidate for any security-focused position.
-
-      - name: Carlos Cañedo, Mexico Operations Manager, Avertium
-        icon: fa-solid fa-thumbtack
-        reference: I had the pleasure of working with Benjamin at Avertium, and I can confidently say he is an outstanding professional. Beyond his technical skills, Benjamin is a team player, always willing to share his knowledge and mentor others. His proactive approach and problem-solving mindset made him a valuable asset. Anyone looking for a dedicated, knowledgeable, and results-driven expert would be lucky to have Benjamin on their team.
-
-      - name: Dominique Devereux, Project Manager, Cybersecurity
-        icon: fa-solid fa-thumbtack
-        reference: Benjamin consistently demonstrates a deep understanding of cybersecurity principles and threat landscapes, allowing them to provide insightful recommendations that align with both security best practices and client objectives. Their ability to analyze complex security challenges and present clear, actionable solutions has been instrumental in ensuring the success of our projects. They work seamlessly with cross-functional teams, effectively translating technical findings into business-friendly language for stakeholders.
-
-      - name: Baylee Corder, Recruiting the Top Talent in Cyber Security, Avertium
-        icon: fa-solid fa-thumbtack
-        reference: Ben was a pleasure to work with from the get. From hiring him to joining us at Avertium he was great. Ben will make an effort to contribute to company culture and make a place a better place to work. Any company would be lucky to have him working on their team.
-
-      - name: Corey Bates, Architecture and Integration Consultant, Avertium
-        icon: fa-solid fa-thumbtack
-        reference: Ben is a knowledgeable and supportive team member who actively contributes to group discussions. Whether solving a problem, offering a solution (often with a handy script), or providing insights on broader topics, he consistently adds value. During my time on the A&O team, I appreciated both his expertise and his collaborative approach.
-
-      - name: Nadia Lopez Contreras, Finance and Operations, Avertium
-        icon: fa-solid fa-thumbtack
-        reference: Ben is a great supporter and skillful professional, if you're looking for someone that not only does the job but also provides support and shares knowledge, he is definitely the person you are looking for!
-
-      - name: Brian Gladfelter, Cyber Security Consultant, Avertium (direct manager)
-        icon: fa-solid fa-thumbtack
-        reference: Benjamin is a solid employee with a diverse background and many skillsets. He always completed his projects on time and excelled at meeting customers needs. I would be happy to have him as an employee again.
-
-      - name: Nathan French CISSP, Cybersecurity Leader, Avertium
-        icon: fa-solid fa-thumbtack
-        reference: Having worked with Benjamin on a variety of projects for several months, I have come to appreciate the diversity of his background and his voracious appetite for growth. He brings a variety of skills and a deep knowledge base to every interaction. He works from a very positive perspective and never brings a problem to the table without also bringing a solution. I enjoyed working with him and often learned from him.
-
-      - name: Eldon Sheckles CISM CDPSE, Proactive Cybersecurity Consulting, Avertium
-        icon: fa-solid fa-thumbtack
-        reference: From the outset, Ben impressed me with his technical expertise, problem-solving abilities, and strong work ethic. He consistently delivered high-quality results on complex projects, often going above and beyond to ensure that everything was done efficiently and correctly. His attention to detail and ability to quickly learn new technologies were invaluable assets to our team.
-
-      - name: Ashok Ganpathi, Senior Manager of Site Reliability Engineering, UST/AvidXchange (direct manager)
-        icon: fa-solid fa-thumbtack
-        reference: Ben played a pivotal role in implementing Dynatrace. His meticulous attention to detail, positive attitude, and straightforward communication style are invaluable assets in team collaborations. His adeptness at problem-solving through his DevOps expertise and comprehensive toolset makes him a significant asset to any team.
-
-      - name: Pritam Majumder, Senior DevOps Engineer, UST/AvidXchange
-        icon: fa-solid fa-thumbtack
-        reference: While working together, I have consistently observed Ben's solid understanding of cloud technologies and his ability to effectively apply them across various projects. Ben has demonstrated exceptional proficiency in designing and implementing cloud solutions, optimizing infrastructure, and maintaining rigorous security standards.
-
-      - name: Sean Russell, Site Reliability Engineer II, AvidXchange
-        icon: fa-solid fa-thumbtack
-        reference: While I did not work on the same team, I had the pleasure of working with Ben on cloud related troubleshooting issues and enterprise monitoring initiatives. He was always very helpful and ready to lend his technical expertise where needed to solve problems and remove blockers. Any company would be lucky to have Ben as a talented addition.
-
-      - name: Prashant Dasamantarao, Dynatrace Certified Admin, AvidXchange
-        icon: fa-solid fa-thumbtack
-        reference: I had the pleasure of working with Ben for 2 years at Avidxchange, and I can confidently say that he is an exceptional professional in the field of cloud automation. His expertise in CI/CD, Linux administration, Dynatrace monitoring, and scripting is unparalleled. Ben has a remarkable ability to streamline processes and implement automation solutions that significantly enhance efficiency and reliability.
-
-      - name: Nic Henderson, AvidXchange (direct manager)
-        icon: fa-solid fa-thumbtack
-        reference: Ben has been instrumental in the success of the Enterprise Monitoring workstream. His abilities to bring a diverse skillset, positive attitude, and willingness to jump in and get his hands dirty. I admire Ben's work ethic and the ability for him to accept, learn, execute, repeat.
-
-      - name: Michael Watson-Fore, Co-Founder
-        icon: fa-solid fa-thumbtack
-        reference: Ben has a great technical skill-set and is a tenacious teammate. He would be a good fit for any team with technical inclinations.
-
-      - name: Felipe Nahum, DevOps Software Engineer Lead
-        icon: fa-solid fa-thumbtack
-        reference: Benjamin is a very experienced DevOps Engineer specialized in Security and Networks. I highly recommend him.
-
-      - name: Jose Mario Amezcua Duran, Software Engineering Manager, AgileThought LATAM (direct manager)
-        icon: fa-solid fa-thumbtack
-        reference: He is a person with a high degree of involvement and a marked proactivity. Consistent and insightful, he has no problem accomplishing whatever task he is assigned, great technical knowledge.
-
-      - name: Jared Gamez, Managing Consultant, Guidehouse
-        icon: fa-solid fa-thumbtack
-        reference: When working with Ben, he was one of the most intuitive and creative developers I had the pleasure of working with. From basic troubleshooting of access or permissions issues to larger, complex issues like data migration or overarching system performance, Ben answered the bell each time. Whenever I found myself needing his expertise, Ben was always available, always knowledgeable and always generous with his time to teach.
-
-      - name: Felipe Won Jin Cho, Project Program Manager
-        icon: fa-solid fa-thumbtack
-        reference: Benjamin is an amazing person with great technical experience and advance knowledge with Linux, and DevOps projects. He always meets expectations, and meets deadlines.
-
-      - name: Enrique Blanco, DevOps Engineer, SMX USA
-        icon: fa-solid fa-thumbtack
-        reference: Benji is an excellent Infrastructure and DevOps professional with special focus on security; he is also a great team player always looking to help out others. Any company will benefit from his upfront and positive takes on challenges, as well as his remarkable customer service and excellent support skills.
-
-      - name: Meera Petkar, Strategic CSM, Certified ScrumMaster
-        icon: fa-solid fa-thumbtack
-        reference: Benjamin is a person who is capable of turning the process of cooperation into an engaging win-win competition. His professionalism and healthy perfectionism always motivated team mates to do their own part of the job better. He raised the motivation of the whole team with his energetic and adventurous approach to solving problems.
-
-    Interests:
-      - name: Bug Bounty Programs
-        icon: fa-solid fa-bug
-        keywords: "Actively identifying and responsibly disclosing vulnerabilities in production applications"
-
-      - name: Open-Source SDR Security Tools
-        icon: fa-solid fa-tower-broadcast
-        keywords: "Maintaining open-source security tools for testing radio communications using software-defined radios"
-
-      - name: Enable the Future
-        icon: fa-solid fa-hand-holding-heart
-        keywords: "Volunteer 3D printing prosthetic limbs for children"
-
-      - name: BSides Mexico
-        icon: fa-solid fa-users
-        keywords: "Active volunteer and organiser contributing to the growth of the local security community"
-
-      - name: Ham Radio Club of Mexico
-        icon: fa-solid fa-radio
-        keywords: "Working to restore official ham radio operator registration in Mexico"
-
-      - name: Mentoring
-        icon: fa-solid fa-chalkboard-teacher
-        keywords: "Mentoring junior engineers in DevSecOps practices in Mexico City"
+{
+  "name": "Benjamin Saul McCulloch",
+  "contact": {
+    "email": "benjamin.saul.mcculloch@gmail.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "456 Elm St, Anytown, USA"
+  },
+  "summary": "Security architect with expertise in cloud, DevSecOps, and zero-downtime patching. Proven track record of reducing MTTR and enhancing security through continuous monitoring and automated remediation.",
+  "education": [
+    {
+      "institution": "TAFE SA",
+      "degree": "Advanced Diploma in Security and Networking",
+      "field": "Computer and Information Systems Security / Information Assurance",
+      "year": "2013"
+    },
+    {
+      "institution": "TAFE SA",
+      "degree": "Electronics and Computer Systems, Electrical and Electronics Engineering",
+      "field": "",
+      "year": "2012"
+    }
+  ],
+  "certifications": [
+    "CCNA Security",
+    "CCNA Routing and Switching",
+    "Microsoft Technology Associate (MTA)",
+    "SQL (Advanced)",
+    "Foundations of Diversity, Equity, Inclusion, and Belonging"
+  ],
+  "professionalDevelopment": {
+    "cloudCertification": {
+      "provider": "[AWS / Azure / GCP]",
+      "expectedYear": "[Year]"
+    },
+    "securityCertification": {
+      "provider": "[CISSP / CISM / CCSP]",
+      "status": "[status]"
+    },
+    "aiSecurityAndGovernance": {
+      "description": "self-directed study in LLM security, AI agent risk, and emerging governance frameworks."
+    }
+  },
+  "communityAndOpenSource": {
+    "openSourceSecurityTools": {
+      "description": "Maintain security tooling for radio testing using software-defined radios, contributing back to the security research community."
+    },
+    "enableTheFuture": {
+      "description": "3D-print prosthetics for children, applying engineering skills to improve accessibility and quality of life."
+    },
+    "bugBountyPrograms": {
+      "description": "Active participant on [HackerOne / Bugcrowd / other], continuously sharpening offensive security skills against real-world targets."
+    }
+  },
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native / Bilingual"
+    },
+    {
+      "language": "Spanish",
+      "level": "Limited Working Proficiency"
+    },
+    {
+      "language": "Japanese",
+      "level": "Elementary"
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "Senior Cloud Architect | DevOps | Kubernetes Administrator | SOC Auditor",
+      "dates": "April 2021 – June 2024",
+      "location": "Mexico",
+      "description": [
+        "Audit preparation into a continuous process rather than an annual scramble.",
+        "Monitored security threats continuously using SIEM tooling and automated vulnerability scanning, responding to incidents with defined runbooks and automated remediation.",
+        "Implemented zero-downtime patching strategies. Reduced mean time to remediation 70%.",
+        "Conducted threat modeling, penetration testing, and security assessments across SureTax infrastructure, identifying attack surfaces and implementing defence-in-depth strategies.",
+        "Tracked security metrics and reported improvements to leadership, giving stakeholders visibility into risk reduction over time.",
+        "Championed DevSecOps culture through training and collaboration, embedding security into daily workflows and establishing blameless post-mortem processes."
+      ]
+    },
+    {
+      "company": "Avertium — Security Architecture and Optimization",
+      "dates": "July 2024 – April 2025",
+      "location": "Mexico",
+      "description": [
+        "Focused on helping organizations achieve compliance, strengthen defenses, and remediate vulnerabilities across both cloud and on-premises environments.",
+        "Data Protection & Compliance: Safeguarded sensitive data through Microsoft Information Protection (MIP), Data Loss Prevention (DLP) policies, and encryption strategies applied consistently across environments.",
+        "Endpoint Security & Device Protection: Integrated Microsoft Defender for Endpoint to provide advanced protection across hybrid and cloud environments, enforcing endpoint detection and response (EDR) strategies, hardening device configurations, and implementing real-time threat mitigation against malware, ransomware, and insider threats.",
+        "Identity & Access Management: Deployed and managed Azure Active Directory with strong Multi-Factor Authentication, enforced Conditional Access policies to mitigate identity-based threats, and leveraged Role-Based Access Control for least-privilege access.",
+        "Microsoft 365 Security: Implemented robust security baselines to protect cloud environments, configured Advanced Threat Protection for proactive defense, monitored audit logs for anomalies, and ensured compliance with frameworks including CIS and Essential 8.",
+        "Enforced security best practice across Microsoft 365 applications to reduce risk from email-based threats, data leakage, and unauthorized access.",
+        "Network Security & Cloud Protection: Designed and implemented Network Security Groups, firewalls, and VPN configurations to protect cloud workloads from unauthorized access and lateral movement.",
+        "Enhanced security posture through Zero Trust Network Architecture, micro-segmentation, and adaptive security policies tailored for hybrid and multi-cloud environments."
+      ]
+    },
+    {
+      "company": "WSAudiology — DevOps Engineer",
+      "dates": "March 2021 – April 2021",
+      "location": "United States",
+      "description": [
+        "Took ownership of a production web application and its database, both running on Red Hat Linux, and automated their deployment end to end.",
+        "Designed and implemented automated deployment pipelines in Jenkins and Ansible for both application and database updates, eliminating manual release steps, reducing downtime, and making deployments consistent and repeatable across environments.",
+        "Configured and tuned server settings, network configuration, and security protocols to align with industry best practice and application requirements, managing dependencies and ensuring efficient communication between application and database layers.",
+        "Implemented monitoring and alerting with Nagios and Prometheus to track system health, performance metrics, and log data, proactively identifying and resolving issues before they could impact availability or user experience.",
+        "Owned database operations end to end — setup, configuration, performance tuning, and backups, and developed disaster recovery plans ensuring data integrity and business continuity.",
+        "Wrote custom shell scripts to automate backups, log rotation, and routine server maintenance, reducing operational overhead and the risk of human error.",
+        "Enforced access controls, encryption mechanisms, and compliance policies protecting sensitive data, ensuring the infrastructure met regulatory and industry security standards."
+      ]
+    },
+    {
+      "company": "iTexico — Software Specialist / DevOps Engineer",
+      "dates": "September 2020 – March 2021",
+      "location": "Mexico",
+      "clients": [
+        "BestPass — CI/CD for a production web platform.",
+        "GetGiddy — automation and analytics to drive revenue."
+      ],
+      "description": [
+        "BestPass — Designed, implemented, and maintained CI/CD pipelines in TeamCity to automate deployment of a web application running on Internet Information Services (IIS), delivering rapid and reliable software releases.",
+        "GetGiddy — Designed, developed, and maintained Azure Logic Apps that automated business processes, integrated systems, and improved workflow efficiency across the organization.",
+        "Reviewed and analyzed log analytics data to identify trends, anomalies, and optimization opportunities, turning raw telemetry into actionable insight that informed sales strategy and business growth."
+      ]
+    },
+    {
+      "company": "Muttual — DevOps Specialist",
+      "dates": "July 2019 – September 2020",
+      "location": "Mexico City Area, Mexico",
+      "clients": [
+        "Boxer Property",
+        "Stemmons Enterprise"
+      ],
+      "description": [
+        "Held end-to-end responsibility for a business management software platform serving Boxer Property and Stemmons Enterprise — application support, database performance, release deployment, server maintenance, and automation.",
+        "Acted as the primary escalation point for software issues, diagnosing and resolving problems promptly and implementing fixes that improved application reliability and user experience.",
+        "Managed database health — identifying and resolving issues, optimizing performance, and ensuring data integrity and security.",
+        "Ran the release process for new versions and updates, minimizing downtime and ensuring clean transitions between versions.",
+        "Owned server configuration, health monitoring, and routine maintenance to maintain uptime and performance.",
+        "Built scripts and automation tooling that removed repetitive manual work from daily operations and improved overall efficiency."
+      ]
+    },
+    {
+      "company": "EPAM Systems — G Suite Specialist & GCP Support Specialist",
+      "dates": "August 2018 – July 2019",
+      "location": "Mexico City Area, Mexico",
+      "description": [
+        "Selected to partner directly with Google, supporting the G Suite ecosystem for the company's premier enterprise clients — the entry point into cloud at scale, and the origin of the cloud fluency underpinning everything since.",
+        "Served as a trusted advisor to enterprise customers, delivering tailored solutions, resolving complex technical issues, and advising on best practice across the full G Suite stack.",
+        "Played a key role in rolling out new G Suite features and updates, ensuring smooth transitions and minimal disruption for large user bases.",
+        "Collaborated with cross-functional teams to ensure timely resolution of customer concerns, engaging directly with Google's most demanding clients to understand their unique needs and constraints.",
+        "Worked across Gmail, Google Drive, Docs, and the wider G Suite ecosystem, resolving complex technical challenges with minimal disruption to critical customer workflows.",
+        "Fed customer insight back to Google's product teams, driving product improvements and innovation."
+      ]
+    }
+  ]
+}

@@ -2,21 +2,20 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-#title: blank # the website title (if blank, full name will be used instead)
-#first_name: Benjamin 
-#middle_name: S.
-#last_name: McCulloch
-#contact_note: >
-  #You can even add a little note about which of these is the best way to reach you.
-#description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  #A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-#footer_text: >
-  #Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  #Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  #Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-#keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-#lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-#icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+title: Benjamin Saul McCulloch # the website title (if blank, full name will be used instead)
+first_name: Benjamin
+middle_name: Saul
+last_name: McCulloch
+contact_note: >
+  Email is the best way to reach me. I'm open to senior and lead DevSecOps, SRE and cloud security roles, fully remote.
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  Benjamin Saul McCulloch: Senior DevSecOps and Site Reliability Engineer and Cloud Security Lead. Azure, AWS, GCP, Kubernetes, Terraform, CI/CD, Zero Trust, SOC 2 and ISO 27001.
+footer_text: >
+  Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+keywords: DevSecOps, Site Reliability Engineering, SRE, cloud security, Azure, AWS, GCP, Kubernetes, Terraform, CI/CD, Zero Trust, Mexico City, remote
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+icon: 🛡️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: http://benjamin-saul-1989.github.io/ # the base hostname & protocol for your site
 baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root

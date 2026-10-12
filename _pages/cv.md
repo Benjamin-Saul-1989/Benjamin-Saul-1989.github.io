@@ -5,6 +5,6 @@ title: CV
 nav: true
 nav_order: 2
 cv_format: jsonresume
-cv_pdf: /assets/pdf/Benjamin_McCulloch_Resume.pdf
-description: Senior DevSecOps, SRE and cloud security engineer. Download the two-page PDF with the icon on the right.
+cv_pdf: /assets/pdf/Benjamin_McCulloch_Resume_Full.pdf
+description: The full-length version, with every role, the tools I used, case studies and all 15 recommendations. The PDF icon downloads the full 8-page CV; a two-page version is linked from the home page.
 ---

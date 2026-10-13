@@ -515,16 +515,17 @@
     },
     {
       "name": "Linux Sync",
-      "summary": "(open source, github.com/Benjamin-Saul-1989/Linux-Sync): peer-to-peer Linux system sync with a GTK GUI, mDNS discovery, QR-code pairing and SSH transport; built in under a day.",
+      "summary": "Peer-to-peer Linux system sync with a GTK GUI, mDNS discovery, QR-code pairing and SSH transport; built in under a day. (open source)",
       "url": "https://github.com/Benjamin-Saul-1989/Linux-Sync"
     },
     {
       "name": "PortBuster",
-      "summary": "(open source): Python CLI that queries registered ports for TCP/UDP availability and service descriptions."
+      "summary": "Python CLI that queries registered ports for TCP/UDP availability and service descriptions. (open source)",
+      "url": "https://github.com/Benjamin-Saul-1989/PortBuster"
     },
     {
       "name": "ADS-B Business Card",
-      "summary": "(in progress): a custom PCB business card that detects aircraft on 1090 MHz and blinks an LED."
+      "summary": "A custom PCB business card that detects aircraft on 1090 MHz and blinks an LED. (in progress)"
     },
     {
       "name": "Home lab",
@@ -532,7 +533,8 @@
     },
     {
       "name": "Personal scripts",
-      "summary": "automation tools on GitHub, including a SharePoint file checker."
+      "summary": "Automation tools on GitHub, including a SharePoint file checker.",
+      "url": "https://github.com/Benjamin-Saul-1989/Personal_Scripts"
     }
   ],
   "references": [

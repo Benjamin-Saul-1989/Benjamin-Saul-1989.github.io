@@ -4,53 +4,57 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 2
-cv_format: jsonresume
-cv_pdf: /assets/pdf/Benjamin_McCulloch_Resume_Full.pdf
-description: My full CV, with every role, the tools I used, case studies and all 15 recommendations. The PDF icon downloads the full 8-page CV; prefer a shorter copy? Download the two-page resume linked from the home page.
+description: My full CV. Prefer a shorter copy? Download the two-page resume instead.
 ---
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap">
 <style>
 .resume-doc { --ink:#1b1f24; --muted:#56606b; --accent:#0b5cad; --rule:#d5dbe1; --soft:#f1f5f9; }
-.resume-doc, .resume-doc * { box-sizing: border-box; }
-.resume-doc { font-family: "Inter", "DejaVu Sans", sans-serif; color: var(--ink); font-size: 9.4pt; line-height: 1.42; margin: 0; }
-.resume-doc header { border-bottom: 2px solid var(--accent); padding-bottom: 8pt; margin-bottom: 10pt; }
-.resume-doc h1 { font-size: 22pt; font-weight: 700; margin: 0; letter-spacing: -0.2pt; }
-.resume-doc .tagline { font-size: 10.8pt; font-weight: 600; color: var(--accent); margin: 2pt 0 5pt; }
-.resume-doc .contact { font-size: 8.8pt; color: var(--muted); }
-.resume-doc .contact span + span::before { content: "  ·  "; color: var(--rule); }
-.resume-doc h2 { font-size: 10.2pt; text-transform: uppercase; letter-spacing: 1pt; color: var(--accent); margin: 14pt 0 5pt; padding-bottom: 2pt; border-bottom: 1px solid var(--rule); font-weight: 700; page-break-after: avoid; }
-.resume-doc h3 { font-size: 9.8pt; margin: 8pt 0 2pt; font-weight: 700; page-break-after: avoid; }
-.resume-doc p { margin: 0 0 5pt; }
+.resume-doc { background:#fff !important; color:#1b1f24 !important; font-family:"Inter",Arial,Helvetica,sans-serif !important; max-width: 8.5in; margin: 0 auto 24px; padding: 0.6in 0.65in; box-shadow: 0 2px 14px rgba(0,0,0,.25); border-radius: 4px; font-size: 10.5pt; line-height:1.42; text-align:left; }
+.resume-doc * { color: inherit !important; font-family: inherit !important; }
+.resume-doc h1, .resume-doc h2, .resume-doc h3 { line-height:1.2 !important; }
+.resume-doc { --ink:#1b1f24; --muted:#56606b; --accent:#0b5cad; --rule:#d5dbe1; --soft:#f1f5f9; }
+.resume-doc * { box-sizing: border-box; }
+.resume-doc { font-family: "Inter", "DejaVu Sans", sans-serif !important; color: var(--ink) !important; font-size: 9.4pt !important; line-height: 1.42 !important; margin: 0 !important; }
+.resume-doc header { border-bottom: 2px solid var(--accent) !important; padding-bottom: 8pt; margin-bottom: 10pt; }
+.resume-doc h1 { font-size: 22pt !important; font-weight: 700 !important; margin: 0 !important; letter-spacing: -0.2pt !important; }
+.resume-doc .tagline { font-size: 10.8pt !important; font-weight: 600 !important; color: var(--accent) !important; margin: 2pt 0 5pt !important; }
+.resume-doc .contact { font-size: 8.8pt !important; color: var(--muted) !important; }
+.resume-doc .contact span + span::before { content: "  ·  "; color: var(--rule) !important; }
+.resume-doc h2 { font-size: 10.2pt !important; text-transform: uppercase !important; letter-spacing: 1pt !important; color: var(--accent) !important; margin: 14pt 0 5pt !important; padding-bottom: 2pt; border-bottom: 1px solid var(--rule) !important; font-weight: 700 !important; page-break-after: avoid; }
+.resume-doc h3 { font-size: 9.8pt !important; margin: 8pt 0 2pt !important; font-weight: 700 !important; page-break-after: avoid; }
+.resume-doc p { margin: 0 0 5pt !important; }
 .resume-doc .skills div { margin-bottom: 3pt; }
-.resume-doc .skills b { font-weight: 600; }
+.resume-doc .skills b { font-weight: 600 !important; }
 .resume-doc .job { margin-bottom: 11pt; }
 .resume-doc .jobhead { display: flex; justify-content: space-between; align-items: baseline; page-break-after: avoid; }
-.resume-doc .role { font-weight: 700; font-size: 10.4pt; }
-.resume-doc .org { font-weight: 600; color: var(--muted); }
-.resume-doc .dates { font-size: 8.8pt; color: var(--muted); white-space: nowrap; }
-.resume-doc .context { font-style: italic; color: var(--muted); margin: 2pt 0 3pt; }
-.resume-doc .lbl { font-weight: 600; color: var(--accent); font-size: 8.6pt; text-transform: uppercase; letter-spacing: 0.5pt; margin: 4pt 0 1pt; page-break-after: avoid; }
-.resume-doc ul { margin: 2pt 0 0; padding-left: 13pt; }
+.resume-doc .role { font-weight: 700 !important; font-size: 10.4pt !important; }
+.resume-doc .org { font-weight: 600 !important; color: var(--muted) !important; }
+.resume-doc .dates { font-size: 8.8pt !important; color: var(--muted) !important; white-space: nowrap; }
+.resume-doc .context { font-style: italic !important; color: var(--muted) !important; margin: 2pt 0 3pt !important; }
+.resume-doc .lbl { font-weight: 600 !important; color: var(--accent) !important; font-size: 8.6pt !important; text-transform: uppercase !important; letter-spacing: 0.5pt !important; margin: 4pt 0 1pt !important; page-break-after: avoid; }
+.resume-doc ul { margin: 2pt 0 0 !important; padding-left: 13pt; }
 .resume-doc li { margin-bottom: 2.4pt; }
-.resume-doc li::marker { color: var(--accent); }
-.resume-doc .subrole { font-weight: 600; font-size: 9.8pt; margin-top: 5pt; }
-.resume-doc .tech { font-size: 8.7pt; color: var(--muted); margin-top: 3pt; }
-.resume-doc .tech b { color: var(--ink); font-weight: 600; }
-.resume-doc .case { background: var(--soft); border-left: 3px solid var(--accent); padding: 6pt 9pt; margin: 0 0 8pt; page-break-inside: avoid; }
-.resume-doc .case .t { font-weight: 700; }
-.resume-doc .case .w { color: var(--muted); font-size: 8.7pt; }
-.resume-doc .case p { margin: 2pt 0 0; }
-.resume-doc .case b.k { color: var(--accent); font-weight: 600; }
-.resume-doc .quote { margin: 0 0 7pt; page-break-inside: avoid; }
-.resume-doc .quote q { font-style: italic; }
-.resume-doc .quote .who { display: block; color: var(--muted); font-size: 8.6pt; margin-top: 1pt; }
+.resume-doc li::marker { color: var(--accent) !important; }
+.resume-doc .subrole { font-weight: 600 !important; font-size: 9.8pt !important; margin-top: 5pt; }
+.resume-doc .tech { font-size: 8.7pt !important; color: var(--muted) !important; margin-top: 3pt; }
+.resume-doc .tech b { color: var(--ink) !important; font-weight: 600 !important; }
+.resume-doc .case { background: var(--soft) !important; border-left: 3px solid var(--accent) !important; padding: 6pt 9pt !important; margin: 0 0 8pt !important; page-break-inside: avoid; }
+.resume-doc .case .t { font-weight: 700 !important; }
+.resume-doc .case .w { color: var(--muted) !important; font-size: 8.7pt !important; }
+.resume-doc .case p { margin: 2pt 0 0 !important; }
+.resume-doc .case b.k { color: var(--accent) !important; font-weight: 600 !important; }
+.resume-doc .quote { margin: 0 0 7pt !important; page-break-inside: avoid; }
+.resume-doc .quote q { font-style: italic !important; }
+.resume-doc .quote .who { display: block; color: var(--muted) !important; font-size: 8.6pt !important; margin-top: 1pt; }
 .resume-doc .two { display: grid; grid-template-columns: 1fr 1fr; column-gap: 20pt; }
-.resume-doc a { color: inherit; text-decoration: none; }
-.resume-doc { background:#fff; color:var(--ink); max-width: 8.5in; margin: 0 auto; padding: 0.6in 0.65in; box-shadow: 0 2px 14px rgba(0,0,0,.18); border-radius: 4px; font-size: 10.5pt; }
-.resume-doc h1 { color: var(--ink); }
-.resume-doc a { color: var(--accent); }
+.resume-doc a { color: inherit !important; text-decoration: none; }
+.resume-doc a { color: var(--accent) !important; text-decoration:none !important; }
 .resume-doc .two { display:grid; }
-@media (max-width: 700px) { .resume-doc { padding: 20px 16px; } .resume-doc .jobhead { flex-direction: column; } .resume-doc .two { grid-template-columns: 1fr; } }
+@media (max-width: 700px) { .resume-doc { padding: 20px 16px; font-size: 10pt; } .resume-doc .jobhead { flex-direction: column; } .resume-doc .two { grid-template-columns: 1fr; } }
 .cv-actions { max-width: 8.5in; margin: 0 auto 16px; display:flex; gap:10px; flex-wrap:wrap; }
+.resume-doc { margin: 0 auto 24px !important; font-size: 10.5pt !important; }
+.resume-doc header { position: static !important; background: none !important; box-shadow: none !important; z-index: auto !important; width: auto !important; }
+@media (max-width: 700px) { .resume-doc { padding: 20px 16px !important; font-size: 10pt !important; } }
 </style>
 <div class="cv-actions">
 <a class="btn btn-sm z-depth-0" role="button" href="{{ '/assets/pdf/Benjamin_McCulloch_Resume_Full.pdf' | relative_url }}" target="_blank"><i class="fa-solid fa-file-pdf"></i> Download full CV (PDF, 8 pages)</a>

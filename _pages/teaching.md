@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Free, in-person classes in cybersecurity and self-hosting in Mexico City.
+description: In-person classes in cybersecurity and self-hosting in Mexico City.
 nav: true
 nav_order: 5
 ---
@@ -11,11 +11,11 @@ I volunteer as an instructor at **FAC**, a non-profit in Mexico City, where I ha
 
 ## Cybersecurity (Saturday mornings)
 
-A practical introduction to how attacks really happen and how to defend against them: passwords and multi-factor authentication, recognizing phishing, securing phones and laptops, home network security, and how professionals find and fix vulnerabilities. Every topic is grounded in incidents I have handled in industry.
+A practical cybersecurity class: how attacks happen and how to defend against them, grounded in incidents I have handled in industry.
 
 ## Self-hosting (Saturday afternoons)
 
-Students learn to run their own services instead of renting them: Linux basics, Docker, setting up a home server, and hosting tools such as photo libraries and file sync (for example Immich and Nextcloud), with backups and secure remote access built in from day one.
+A hands-on class on running your own services on your own hardware instead of renting them.
 
 ## Mentoring
 
